@@ -1,0 +1,1777 @@
+Loading catalogs...
+00100/01925 IX3AU87
+00200/01925 AQWAPEB
+00300/01925 M6Q7YJJ
+00400/01925 B54D2Q8
+00500/01925 VB3D3X7
+00600/01925 SYY4KUA
+00700/01925 BH76PLZ
+00800/01925 82YQF4X
+00900/01925 UALBWJ8
+01000/01925 FCWKP2I
+01100/01925 YQ6VUMJ
+01200/01925 59H7UAS
+01300/01925 RCNATSW
+01400/01925 CR9X7EG
+01500/01925 JHF7HY4
+01600/01925 KLAZP22
+01700/01925 7W7NXCT
+01800/01925 9FT3IRS
+01900/01925 VXJF9QG
+01925/01925 QIT3TZX
+
+Success: All 1925 loaded.
+
+Loading all tags...
+00100 leaving-one-out concept
+00200 Corpora (Linguistics)
+00300 Research Methodology
+00400 Science / General
+00500 segmentation recognition
+00600 Adaptive filters
+00700 Projection pursuit
+00744 Literary Sentences
+
+Building index...
+PPDZ3HN:                                                                EEG --> ['eeg']
+PPDZ3HN:                                                  cognitive   state --> ['cognitive state']
+PPDZ3HN:                                                       video  games --> ['video games']
+J3UTMZT:                                                   Machine Learning --> ['machine learning']
+F5UGDT2:                                                   Machine Learning --> ['machine learning']
+F5UGDT2:                                  Neural and Evolutionary Computing --> ['neural computing', 'evolutionary computing']
+LXN4UPX:                                                   Machine Learning --> ['machine learning']
+BQ2SEES:                                               Hidden Markov models --> ['hidden markov models']
+BQ2SEES:                                                 Speech recognition --> ['speech recognition']
+BQ2SEES:                                                           Tutorial --> ['tutorial']
+6K6P73Z:                                           computation and language --> ['computation', 'language']
+YDMNYHT:                                           computation and language --> ['computation', 'language']
+USWG9QT:                                                   Machine Learning --> ['machine learning']
+USWG9QT:                                           computation and language --> ['computation', 'language']
+FJK32IL:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+NNQECNM:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+VCH7AUZ:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+JYDZYV2:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+A9YE6BH:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+PNRTN3W:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+J8EML8F:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+J8EML8F:                                  Neural and Evolutionary Computing --> ['neural computing', 'evolutionary computing']
+J8EML8F:                                              Neurons and Cognition --> ['neurons', 'cognition']
+Z874IJD:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+9US376I:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+AC643MZ:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+AC643MZ:                                                   Machine Learning --> ['machine learning']
+5K29Z45:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+8TI35B8:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+3FSLDMU:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+3FSLDMU:                                                   Machine Learning --> ['machine learning']
+ZLF2CQ3:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+IYNTC5M:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+LKX3FPT:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+CYGTJAU:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+CYGTJAU:                                                   Machine Learning --> ['machine learning']
+7I7GKG4:                                                   Machine Learning --> ['machine learning']
+7I7GKG4:                                               Software Engineering --> ['software engineering']
+U93XF79:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+U93XF79:                                                   Machine Learning --> ['machine learning']
+U93XF79:                                              Neurons and Cognition --> ['neurons', 'cognition']
+RHW3CH9:                                                   Machine Learning --> ['machine learning']
+UTEGQYH:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+UTEGQYH:                                                   Machine Learning --> ['machine learning']
+UTEGQYH:                                  Neural and Evolutionary Computing --> ['neural computing', 'evolutionary computing']
+NSZMAPC:                                              Computers and Society --> ['society', 'computers']
+PI89QCZ:                                                   Machine Learning --> ['machine learning']
+PI89QCZ:                                           computation and language --> ['computation', 'language']
+L9ZTYHG:                                           computation and language --> ['computation', 'language']
+4V9FMUT:                                                   Machine learning --> ['machine learning']
+4V9FMUT:                                 Python (Computer program language) --> ['python', 'computer program language']
+DAGW85J:                                          Discrete event simulation --> ['discrete event simulation']
+DAGW85J:                                                     English corpus --> ['english corpus']
+DAGW85J:                                               Frequency estimation --> ['frequency estimation']
+DAGW85J:                                                      German corpus --> ['german corpus']
+DAGW85J:                                               Lagrangian functions --> ['lagrangian functions']
+DAGW85J:                                      Maximum likelihood estimation --> ['maximum likelihood estimation']
+DAGW85J:                                                  Natural languages --> ['natural languages']
+DAGW85J:                                                  Smoothing methods --> ['smoothing methods']
+DAGW85J:                                               Stochastic processes --> ['stochastic processes']
+DAGW85J:                                                            Testing --> ['testing']
+DAGW85J:                                                      Training data --> ['training data']
+DAGW85J:                                                Turing-Good formula --> ['turing-good formula']
+DAGW85J:                                                         Vocabulary --> ['vocabulary']
+DAGW85J:                           generalisation (artificial intelligence) --> ['generalisation', 'artificial intelligence']
+G4LBL2I:                               Computers / Programming / Algorithms --> ['programming', 'computers', 'algorithms']
+H6DTRC9:                               Computers / Programming / Algorithms --> ['programming', 'computers', 'algorithms']
+LC3CDA2:                                               Psychological traits --> ['psychological traits']
+GWFAI3L:                                           computation and language --> ['computation', 'language']
+L7XYL5X:                                      Statistical language modeling --> ['statistical language modeling']
+AQWAPEB:                                      Operating systems (Computers) --> ['computers', 'operating systems']
+AQWAPEB:                                               UNIX (Computer file) --> ['computer file', 'unix']
+CYBXXTY:                                                Computer algorithms --> ['computer algorithms']
+CYBXXTY:                                               Computer programming --> ['computer programming']
+3QEE9TE:                                       Literary Criticism / General --> ['literary criticism']
+8A7RN4E:                                                 Information Theory --> ['information theory']
+8A7RN4E:                                             Statistical complexity --> ['statistical complexity']
+7RBR5GV:                                                            MISSING --> ['missing']
+VP8GYES:                                                        Fuzzy Logic --> ['fuzzy logic']
+VP8GYES:                                                 Literary Sentences --> ['literary sentences']
+5YLXNEB:                                                    Language Models --> ['language models']
+5YLXNEB:                                        Natural Language Generation --> ['natural language generation']
+VNAQ5XG:                                                   Neural computers --> ['neural computers']
+VNAQ5XG:                                     Neural networks (Neurobiology) --> ['neural networks', 'neurobiology']
+6Y8TDMP:                               Command languages (Computer science) --> ['command languages', 'computer science']
+6Y8TDMP:                                                Database management --> ['database management']
+6Y8TDMP:                                         Electronic data processing --> ['electronic data processing']
+6Y8TDMP:                                                Information science --> ['information science']
+FR5932L:                                                   Adaptive filters --> ['adaptive filters']
+FR5932L:                                                    Neural networks --> ['neural networks']
+VZGTFRZ:                                                     Bioinformatics --> ['bioinformatics']
+VZGTFRZ:                                         Computational intelligence --> ['computational intelligence']
+VZGTFRZ:                                                        Data mining --> ['data mining']
+VZGTFRZ:                                                        Forecasting --> ['forecasting']
+VZGTFRZ:                                                          Inference --> ['inference']
+VZGTFRZ:                                                   Machine learning --> ['machine learning']
+VZGTFRZ:                                                        Methodology --> ['methodology']
+VZGTFRZ:                                                         Statistics --> ['statistics']
+DCAEALK:                         Business & Economics / Economics / General --> ['business', 'economics']
+DCAEALK:                         Business & Economics / Economics / General --> ['business', 'economics']
+DCAEALK:                                          Mathematics / Game Theory --> ['mathematics', 'game theory']
+DCAEALK:                                          Mathematics / Game Theory --> ['mathematics', 'game theory']
+YSYQJKY:                                                                  C --> ['c']
+YSYQJKY:                               Computers / Operating Systems / UNIX --> ['unix', 'computers', 'operating systems']
+YSYQJKY:                               Computers / Operating Systems / UNIX --> ['unix', 'computers', 'operating systems']
+SRAEXFJ:                                                                  C --> ['c']
+SRAEXFJ:                                                       Intermediate --> ['intermediate']
+RGIQCYP:                                                                  C --> ['c']
+RGIQCYP:                                                       Intermediate --> ['intermediate']
+4GBHBVY:                                                                  C --> ['c']
+4GBHBVY:                                                       Intermediate --> ['intermediate']
+AZBMHZT:                                                                  C --> ['c']
+AZBMHZT:                                                       Intermediate --> ['intermediate']
+VH7R5UH:                                                                  C --> ['c']
+VH7R5UH:                                                       Intermediate --> ['intermediate']
+Y7CTKFE:                              Computers / Operating Systems / Linux --> ['linux', 'computers', 'operating systems']
+Y7CTKFE:                              Computers / Operating Systems / Linux --> ['linux', 'computers', 'operating systems']
+Y7CTKFE:                               Computers / Operating Systems / UNIX --> ['unix', 'computers', 'operating systems']
+Y7CTKFE:                               Computers / Operating Systems / UNIX --> ['unix', 'computers', 'operating systems']
+Y7CTKFE:                                  Computers / Programming / General --> ['programming', 'computers']
+Y7CTKFE:                              Computers / Programming Languages / C --> ['c', 'computers', 'programming languages']
+Y7CTKFE:           Computers / Software Development & Engineering / General --> ['software development', 'computers', 'engineering']
+GNMY53D:                                        Science / Physics / General --> ['science', 'physics']
+GNMY53D:                                        Science / Physics / General --> ['science', 'physics']
+GNMY53D:                   Science / Physics / Mathematical & Computational --> ['science', 'mathematical', 'physics', 'computational']
+GNMY53D:                   Science / Physics / Mathematical & Computational --> ['science', 'mathematical', 'physics', 'computational']
+KTDYMFK:                                                Continuum mechanics --> ['continuum mechanics']
+KTDYMFK:                                              Finite element method --> ['finite element method']
+KTDYMFK:                                  Structural analysis (Engineering) --> ['engineering', 'structural analysis']
+A88TSU5:                                                Continuum mechanics --> ['continuum mechanics']
+A88TSU5:                                              Finite element method --> ['finite element method']
+A88TSU5:                                  Structural analysis (Engineering) --> ['engineering', 'structural analysis']
+SHAPUEK:                                                Continuum mechanics --> ['continuum mechanics']
+SHAPUEK:                                              Finite element method --> ['finite element method']
+SHAPUEK:                                  Structural analysis (Engineering) --> ['engineering', 'structural analysis']
+GKHFVDE:                                                                  C --> ['c']
+GKHFVDE:                                                       Intermediate --> ['intermediate']
+VP8Y66B:                                 Query languages (Computer science) --> ['computer science', 'query languages']
+VP8Y66B:                                     XML (Document markup language) --> ['document markup language', 'xml']
+JZC6SEJ:                                Cross-platform software development --> ['cross-platform software development']
+JZC6SEJ:                       Graphical user interfaces (Computer systems) --> ['computer systems', 'graphical user interfaces']
+JZC6SEJ:                                               Open source software --> ['open source software']
+JZC6SEJ:                                 Python (Computer program language) --> ['python', 'computer program language']
+JZC6SEJ:                                                           wxPython --> ['wxpython']
+JZC6SEJ:                                                          wxWidgets --> ['wxwidgets']
+SHDTGWL:                                                  Computer graphics --> ['computer graphics']
+SHDTGWL:                                          Information visualization --> ['information visualization']
+M5FMDPY:                                                       Group theory --> ['group theory']
+M5FMDPY:                                                             Gruppe --> ['gruppe']
+M5FMDPY:                                                         Lehrmittel --> ['lehrmittel']
+M5FMDPY:                                                              Math. --> ['math.']
+ZTNAFWQ:                                           Computational complexity --> ['computational complexity']
+ZTNAFWQ:                                               Computer programming --> ['computer programming']
+ZTNAFWQ:                                                    Data processing --> ['data processing']
+ZTNAFWQ:                                                        Mathematics --> ['mathematics']
+ZTNAFWQ:                                   Ruby (Computer program language) --> ['computer program language', 'ruby']
+FNXNXD8:                                                      Fuzzy systems --> ['fuzzy systems']
+FNXNXD8:                                   Uncertainty (Information theory) --> ['information theory', 'uncertainty']
+CKKCMM2:                                                      Atomic theory --> ['atomic theory']
+CKKCMM2:                                                    Nuclear physics --> ['nuclear physics']
+QNI2TC9:                                                  Frequency spectra --> ['frequency spectra']
+QNI2TC9:                                                  Signal processing --> ['signal processing']
+QNI2TC9:                                               Time-series analysis --> ['time-series analysis']
+DV8EMKW:                 Application program interfaces (Computer software) --> ['application program interfaces', 'computer software']
+DV8EMKW:                                                  Computer graphics --> ['computer graphics']
+DV8EMKW:                                               Computer programming --> ['computer programming']
+DV8EMKW:                                                             OpenGL --> ['opengl']
+DV8EMKW:                                                     Specifications --> ['specifications']
+ZGSTEA2:                                           Mathematical recreations --> ['mathematical recreations']
+TRSHCDI:                                             Plasma (Ionized gases) --> ['plasma', 'ionized gases']
+ZTKU6PZ:                                                           Calculus --> ['calculus']
+ZTKU6PZ:                                            Handbooks, manuals, etc --> ['manuals', 'handbooks']
+AWVZLG6:                                              Computer organization --> ['computer organization']
+AWVZLG6:                         Parallel processing (Electronic computers) --> ['electronic computers', 'parallel processing']
+AWVZLG6:                                           Virtual computer systems --> ['virtual computer systems']
+AWVZLG6:                                          Xen (Electronic resource) --> ['xen', 'electronic resource']
+DWHBWN9:                                                   Computer science --> ['computer science']
+DWHBWN9:                                                        Mathematics --> ['mathematics']
+6KZMS7P:                                      Compilers (Computer programs) --> ['compilers', 'computer programs']
+7EQVY5I:                                    C++ (Computer program language) --> ['c++', 'computer program language']
+NN35SVM:                                                           Calculus --> ['calculus']
+NN35SVM:                                                            History --> ['history']
+83XQ7UX:                                    AWK (Computer program language) --> ['awk', 'computer program language']
+HXNI24R:                                                    Multiprocessors --> ['multiprocessors']
+HXNI24R:                            Multiprogramming (Electronic computers) --> ['electronic computers', 'multiprogramming']
+NV9MAV3:                                    Tcl (Computer program language) --> ['tcl', 'computer program language']
+NV9MAV3:                                                         Tk toolkit --> ['tk toolkit']
+S6FUYA2:                                      Assistive computer technology --> ['assistive computer technology']
+S6FUYA2:                                                    Data processing --> ['data processing']
+S6FUYA2:                                                 Domestic relations --> ['domestic relations']
+S6FUYA2:                                           Environmental psychology --> ['environmental psychology']
+FJRHCA5:                                                  Computer networks --> ['computer networks']
+FJRHCA5:                                 Data encryption (Computer science) --> ['computer science', 'data encryption']
+FJRHCA5:                                                  Security measures --> ['security measures']
+FJRHCA5:                                                        UNIX Shells --> ['unix shells']
+766RW6Q:                                       Browsers (Computer programs) --> ['computer programs', 'browsers']
+766RW6Q:                                                       Cache memory --> ['cache memory']
+766RW6Q:                                                        Web servers --> ['web servers']
+K3Y323W:                                            Digital control systems --> ['digital control systems']
+K3Y323W:                                                   Microcontrollers --> ['microcontrollers']
+K3Y323W:                              Motorola 68000 series microprocessors --> ['motorola 68000 series microprocessors']
+TNSX26J:                                                      Drilling muds --> ['drilling muds']
+TNSX26J:                                                      Shale shakers --> ['shale shakers']
+9UN4XDP:                                           Problems, exercises, etc --> ['exercises', 'problems']
+9UN4XDP:                                  Signal theory (Telecommunication) --> ['signal theory', 'telecommunication']
+RJKBEF4:                                                           Calculus --> ['calculus']
+RJKBEF4:                                           Problems, exercises, etc --> ['exercises', 'problems']
+7KKXGAP:                                             Differential equations --> ['differential equations']
+7KKXGAP:                                             Outlines, syllabi, etc --> ['outlines', 'syllabi']
+7KKXGAP:                                           Problems, exercises, etc --> ['exercises', 'problems']
+H654CUP:                                 TCP/IP (Computer network protocol) --> ['tcp/ip', 'computer network protocol']
+D87ZZZ6:                                               Internet programming --> ['internet programming']
+D87ZZZ6:                                               Web site development --> ['web site development']
+PDJ4TZM:                                                Automatic machinery --> ['automatic machinery']
+PDJ4TZM:                                            Design and construction --> ['design', 'construction']
+VAR7SIY:                                                            Geology --> ['geology']
+VAR7SIY:                                             Hydrocarbon reservoirs --> ['hydrocarbon reservoirs']
+VAR7SIY:                                                          Petroleum --> ['petroleum']
+VKE3IDS:                       Graphical user interfaces (Computer systems) --> ['computer systems', 'graphical user interfaces']
+VKE3IDS:                                 Python (Computer program language) --> ['python', 'computer program language']
+VKE3IDS:                                           Qt (Electronic resource) --> ['qt', 'electronic resource']
+X8BPDTM:                                                        Data mining --> ['data mining']
+X8BPDTM:                       Programming languages (Electronic computers) --> ['electronic computers', 'programming languages']
+X8BPDTM:                                 Python (Computer program language) --> ['python', 'computer program language']
+XWKSUD6:                                 Python (Computer program language) --> ['python', 'computer program language']
+ESCZSD7:                                 Python (Computer program language) --> ['python', 'computer program language']
+ESCZSD7:                                     XML (Document markup language) --> ['document markup language', 'xml']
+P9JRLP5:                                 Python (Computer program language) --> ['python', 'computer program language']
+A64WJSS:                                                                  C --> ['c']
+A64WJSS:                                                   Microcontrollers --> ['microcontrollers']
+A64WJSS:                                           Programmable controllers --> ['programmable controllers']
+TQ98JE7:                                                       Logic design --> ['logic design']
+TQ98JE7:                                                  Logic programming --> ['logic programming']
+XNC2IRC:                                       Browsers (Computer programs) --> ['computer programs', 'browsers']
+XNC2IRC:                                            Firefox (Computer file) --> ['computer file', 'firefox']
+QQ83RTB:                                           Programmable controllers --> ['programmable controllers']
+B54D2Q8:                                               Open source software --> ['open source software']
+B54D2Q8:                                           Virtual computer systems --> ['virtual computer systems']
+E8UZ2XW:                                               Internet programming --> ['internet programming']
+E8UZ2XW:                                               Web site development --> ['web site development']
+YRQY4KW:                             JavaScript (Computer program language) --> ['computer program language', 'javascript']
+YRQY4KW:                                               Web site development --> ['web site development']
+B26QPBV:                                             Cascading style sheets --> ['cascading style sheets']
+B26QPBV:                                                             Design --> ['design']
+B26QPBV:                                                          Web sites --> ['web sites']
+CM2NYXV:                          Assembly languages (Electronic computers) --> ['electronic computers', 'assembly languages']
+T8YQA37:                                                  Computer programs --> ['computer programs']
+T8YQA37:                                            Electronic mail systems --> ['electronic mail systems']
+T8YQA37:                                                           Internet --> ['internet']
+T8YQA37:                                            Postfix (Computer file) --> ['computer file', 'postfix']
+ML2C78Q:                                                     Computer games --> ['computer games']
+ML2C78Q:                                                            Physics --> ['physics']
+ML2C78Q:                                                        Programming --> ['programming']
+9FP3NL7:                                                 Caspian Sea Region --> ['caspian sea region']
+9FP3NL7:                                                            Geology --> ['geology']
+9FP3NL7:                                                          Petroleum --> ['petroleum']
+RHBVGAM:                                                     Fluid dynamics --> ['fluid dynamics']
+RHBVGAM:                                          Mathematical optimization --> ['mathematical optimization']
+RHBVGAM:                                                        Mathematics --> ['mathematics']
+RHBVGAM:                                                 Numerical analysis --> ['numerical analysis']
+QUM4K45:                                                            Parsing --> ['parsing']
+QUM4K45:                                         Parsing (Computer grammar) --> ['parsing', 'computer grammar']
+QUM4K45:                                               Syntaktische Analyse --> ['syntaktische analyse']
+PHSZBZ6:                                                   Algebras, Linear --> ['linear algebra']
+PHSZBZ6:                                             Numerical calculations --> ['numerical calculations']
+PHSZBZ6:                                                Parallel algorithms --> ['parallel algorithms']
+PHSZBZ6:                         Parallel processing (Electronic computers) --> ['electronic computers', 'parallel processing']
+C4LFSH3:                                                   Machine learning --> ['machine learning']
+C4LFSH3:                                                Mathematical models --> ['mathematical models']
+C4LFSH3:                                          Mathematical optimization --> ['mathematical optimization']
+5V5WEEM:                                                  Computer graphics --> ['computer graphics']
+5V5WEEM:                                                             OpenGL --> ['opengl']
+KPYRZXH:                                 OpenCL (Computer program language) --> ['opencl', 'computer program language']
+AKJ9LKQ:                                             Operational amplifiers --> ['operational amplifiers']
+LVIQV6C:                                                Computer algorithms --> ['computer algorithms']
+LVIQV6C:                                                    Data processing --> ['data processing']
+LVIQV6C:                                          Mathematical optimization --> ['mathematical optimization']
+LVIQV6C:                                                 Numerical analysis --> ['numerical analysis']
+RCFZRC9:                                                   Foamed materials --> ['foamed materials']
+RCFZRC9:                                                             Metals --> ['metals']
+JZ66G3X:                                                Continuum mechanics --> ['continuum mechanics']
+JZ66G3X:                                              Finite element method --> ['finite element method']
+JZ66G3X:                                                          Materials --> ['materials']
+JZ66G3X:                                                Mathematical models --> ['mathematical models']
+JZ66G3X:                                                Nonlinear mechanics --> ['nonlinear mechanics']
+8I6LJRQ:                                                  Computer networks --> ['computer networks']
+8I6LJRQ:                                       Monitoring Computer programs --> ['monitoring computer programs']
+8I6LJRQ:                                Security measures Computer programs --> ['security measures computer programs']
+QJG9PZA:                                    Computer input-output equipment --> ['computer input-output equipment']
+QJG9PZA:                                                  Signal processing --> ['signal processing']
+QJG9PZA:                                                        Transducers --> ['transducers']
+DKSBJFW:                               Electric motors, Alternating current --> ['electric motors', 'alternating current']
+DKSBJFW:                                                      Fuzzy systems --> ['fuzzy systems']
+DKSBJFW:                                             Motion control devices --> ['motion control devices']
+DKSBJFW:                                                 Power transmission --> ['power transmission']
+DKSBJFW:                      VHDL (Computer hardware description language) --> ['computer hardware description language', 'vhdl']
+3YH3PNW:                                              Corpora (Linguistics) --> ['corpora', 'linguistics']
+3YH3PNW:                                                    Data processing --> ['data processing']
+3YH3PNW:                                                   Machine learning --> ['machine learning']
+3YH3PNW:                     Natural language processing (Computer science) --> ['computer science', 'natural language processing']
+B7XC8C3:                                                          AMS-LaTeX --> ['ams-latex']
+B7XC8C3:                                                  Computer programs --> ['computer programs']
+B7XC8C3:                                           Computerized typesetting --> ['computerized typesetting']
+B7XC8C3:                                               Mathematics printing --> ['mathematics printing']
+CYNPWGY:                                                             Design --> ['design']
+CYNPWGY:                                                 Digital techniques --> ['digital techniques']
+CYNPWGY:                                              Mixed signal circuits --> ['mixed signal circuits']
+CYNPWGY:                                                  Signal processing --> ['signal processing']
+SVLJR88:                                                      Popular works --> ['popular works']
+SVLJR88:                                                    Problem solving --> ['problem solving']
+SVLJR88:                                        Word problems (Mathematics) --> ['mathematics', 'word problems']
+UUINRAG:                                                          AMS-LaTeX --> ['ams-latex']
+UUINRAG:                                                  Computer programs --> ['computer programs']
+UUINRAG:                                           Computerized typesetting --> ['computerized typesetting']
+UUINRAG:                                               Mathematics printing --> ['mathematics printing']
+LK9TPC3:                                                              Humor --> ['humor']
+LK9TPC3:                                                        Mathematics --> ['mathematics']
+LK9TPC3:                                                      Popular works --> ['popular works']
+GYXIB2J:                                                              Linux --> ['linux']
+GYXIB2J:                                            RAID (Computer science) --> ['computer science', 'raid']
+INALZH9:                                                              Linux --> ['linux']
+INALZH9:                                      Operating systems (Computers) --> ['computers', 'operating systems']
+P55N2YC:                                          Embedded computer systems --> ['embedded computer systems']
+P55N2YC:                                                              Linux --> ['linux']
+P55N2YC:                                      Operating systems (Computers) --> ['computers', 'operating systems']
+P55N2YC:                                                        Programming --> ['programming']
+P55N2YC:                                              Real-time programming --> ['real-time programming']
+693KDYA:                                                 Linear programming --> ['linear programming']
+SJT26J8:                                                 Authoring programs --> ['authoring programs']
+SJT26J8:                                             Cascading style sheets --> ['cascading style sheets']
+SJT26J8:                                                  Computer graphics --> ['computer graphics']
+SJT26J8:                                                             Design --> ['design']
+SJT26J8:                                    HTML (Document markup language) --> ['document markup language', 'html']
+SJT26J8:                                            Handbooks, manuals, etc --> ['manuals', 'handbooks']
+SJT26J8:                             JavaScript (Computer program language) --> ['computer program language', 'javascript']
+SJT26J8:                                                          Web sites --> ['web sites']
+2Y4ZVBL:                                 Python (Computer program language) --> ['python', 'computer program language']
+966ECRQ:                                 TCP/IP (Computer network protocol) --> ['tcp/ip', 'computer network protocol']
+E9RKF9R:                                                  Quantum computers --> ['quantum computers']
+BZ5P2NI:                                            Mathematical statistics --> ['mathematical statistics']
+BZ5P2NI:                                                      Probabilities --> ['probabilities']
+7CZYQNT:                                               Magnetic prospecting --> ['magnetic prospecting']
+MSCP8FN:                                                   Microcontrollers --> ['microcontrollers']
+MSCP8FN:                                                    Microprocessors --> ['microprocessors']
+MSCP8FN:                                           Programmable controllers --> ['programmable controllers']
+QWJJN3F:                                                   Microcontrollers --> ['microcontrollers']
+QWJJN3F:                                           Programmable controllers --> ['programmable controllers']
+SK6RLTX:                                             Optical communications --> ['optical communications']
+GS5BLRJ:                                                     Computer games --> ['computer games']
+GS5BLRJ:                                                             Design --> ['design']
+GS5BLRJ:                                                        Programming --> ['programming']
+GS5BLRJ:                                                        Video games --> ['video games']
+XWWCLJW:                                             Cascading style sheets --> ['cascading style sheets']
+XWWCLJW:                                    HTML (Document markup language) --> ['document markup language', 'html']
+XWWCLJW:                                   XHTML (Document markup language) --> ['document markup language', 'xhtml']
+82BP8EA:                                                   Audio amplifiers --> ['audio amplifiers']
+82BP8EA:                                                   Power amplifiers --> ['power amplifiers']
+NZJKL8M:                                            Engineering mathematics --> ['engineering mathematics']
+NZJKL8M:                                           Problems, exercises, etc --> ['exercises', 'problems']
+PYU8NDK:                                                             Design --> ['design']
+PYU8NDK:                                    HTML (Document markup language) --> ['document markup language', 'html']
+PYU8NDK:                                               Internet programming --> ['internet programming']
+PYU8NDK:                                                     Web publishing --> ['web publishing']
+PYU8NDK:                                               Web site development --> ['web site development']
+PYU8NDK:                                                          Web sites --> ['web sites']
+PYU8NDK:                                   XHTML (Document markup language) --> ['document markup language', 'xhtml']
+6BMRLDD:                                                  Computer software --> ['computer software']
+6BMRLDD:                                                        Development --> ['development']
+L98CG3K:                                                             Design --> ['design']
+L98CG3K:                                               Internet programming --> ['internet programming']
+L98CG3K:                                     JavaScript (Computer language) --> ['computer language', 'javascript']
+L98CG3K:                             JavaScript (Computer program language) --> ['computer program language', 'javascript']
+L98CG3K:                                                          Web sites --> ['web sites']
+H5UBBXG:                                             Combinatorial analysis --> ['combinatorial analysis']
+H5UBBXG:                                                   Computer science --> ['computer science']
+H5UBBXG:                                            Handbooks, manuals, etc --> ['manuals', 'handbooks']
+H5UBBXG:                                                        Mathematics --> ['mathematics']
+RI98Z94:                          Assembly languages (Electronic computers) --> ['electronic computers', 'assembly languages']
+RI98Z94:                                              Computer architecture --> ['computer architecture']
+RI98Z94:                                                    Microprocessors --> ['microprocessors']
+RI98Z94:                                                        Programming --> ['programming']
+RI98Z94:                                  Reduced instruction set computers --> ['reduced instruction set computers']
+B5S4CVI:                          Assembly languages (Electronic computers) --> ['electronic computers', 'assembly languages']
+B5S4CVI:                                                              Linux --> ['linux']
+XI4HUYH:                                                  Computer security --> ['computer security']
+XI4HUYH:                                 Python (Computer program language) --> ['python', 'computer program language']
+R8T994Q:                                                           Fracture --> ['fracture']
+R8T994Q:                                             Hydrocarbon reservoirs --> ['hydrocarbon reservoirs']
+R8T994Q:                                                              Rocks --> ['rocks']
+R8T994Q:                                                  Sedimentary rocks --> ['sedimentary rocks']
+SYY4KUA:                                                     Computer games --> ['computer games']
+SYY4KUA:                                                        Programming --> ['programming']
+J27DE9R:                                                  Automatic control --> ['automatic control']
+J27DE9R:                                                      Fuzzy systems --> ['fuzzy systems']
+U9CPF2Q:                                 Digital techniques Data processing --> ['digital techniques data processing']
+U9CPF2Q:                                                             MATLAB --> ['matlab']
+U9CPF2Q:                                                  Signal processing --> ['signal processing']
+U9CPF2Q:                                                          Textbooks --> ['textbooks']
+DUY4BAE:                              Object-oriented programming languages --> ['object-oriented programming languages']
+RVSJGDM:                                                                  C --> ['c']
+RVSJGDM:                                                               GTK+ --> ['gtk+']
+J7FAWLA:                                                       Fluidization --> ['fluidization']
+EK2K256:                                                   Image processing --> ['image processing']
+EK2K256:                                                Traitement d'images --> ["traitement d'images"]
+3WPM6S3:                                                         Algorithms --> ['algorithms']
+3WPM6S3:                                                    Data processing --> ['data processing']
+3WPM6S3:                                                           Matrices --> ['matrices']
+MKL9M7E:                                                Seismic prospecting --> ['seismic prospecting']
+E9C6BUA:                               Ethernet (Local area network system) --> ['ethernet', 'local area network system']
+VHMIQ8G:                       Programming languages (Electronic computers) --> ['electronic computers', 'programming languages']
+2TUHM97:                                                    Data processing --> ['data processing']
+2TUHM97:                                            Engineering mathematics --> ['engineering mathematics']
+2TUHM97:                                             MATLAB (Computer file) --> ['computer file', 'matlab']
+M2DUF8G:                                                 Authoring programs --> ['authoring programs']
+M2DUF8G:                                               Web site development --> ['web site development']
+M2DUF8G:                                                          Web sites --> ['web sites']
+R39UP2H:                                          Embedded computer systems --> ['embedded computer systems']
+R39UP2H:                                                            FreeBSD --> ['freebsd']
+R39UP2H:                                      Operating systems (Computers) --> ['computers', 'operating systems']
+ISDIL8Q:                                                         Elasticity --> ['elasticity']
+GPFZJKA:                                               Computer programming --> ['computer programming']
+GPFZJKA:                                 Python (Computer program language) --> ['python', 'computer program language']
+ZT2QWC8:                                                             Design --> ['design']
+ZT2QWC8:                       Graphical user interfaces (Computer systems) --> ['computer systems', 'graphical user interfaces']
+MHPR2VW:                                            Design and construction --> ['design', 'construction']
+MHPR2VW:                                          Embedded Internet devices --> ['embedded internet devices']
+MHPR2VW:                                                           Internet --> ['internet']
+MHPR2VW:                                                   Microcontrollers --> ['microcontrollers']
+4JEHYXN:                                                   Computer science --> ['computer science']
+4JEHYXN:                                                        Mathematics --> ['mathematics']
+KNNGSF7:                                                   Computer systems --> ['computer systems']
+KNNGSF7:                                                          Computers --> ['computers']
+KNNGSF7:                                                  Telecommunication --> ['telecommunication']
+KNNGSF7:                                 User interfaces (Computer systems) --> ['user interfaces', 'computer systems']
+IJT5FX6:                                 Fluid dynamics Mathematical models --> ['fluid dynamics mathematical models']
+IJT5FX6:                                                  Oil well drilling --> ['oil well drilling']
+IJT5FX6:                                                Petroleum pipelines --> ['petroleum pipelines']
+IJT5FX6:                                                              Wells --> ['wells']
+M8MUNL6:                                               Chemical engineering --> ['chemical engineering']
+M8MUNL6:                                                 Chemical processes --> ['chemical processes']
+M8MUNL6:                                             Differential equations --> ['differential equations']
+M8MUNL6:                                                Mathematical models --> ['mathematical models']
+M8MUNL6:                                                        Mathematics --> ['mathematics']
+KDQV3Y7:                                           Near-field communication --> ['near-field communication']
+KDQV3Y7:                                     Wireless communication systems --> ['wireless communication systems']
+B792RKL:                                                Computer algorithms --> ['computer algorithms']
+6URCK2N:                                                Digital electronics --> ['digital electronics']
+6URCK2N:                                                      Popular works --> ['popular works']
+IP6CHTW:                                            Engineering mathematics --> ['engineering mathematics']
+2Z86632:                                               UNIX (Computer file) --> ['computer file', 'unix']
+2Z86632:                                                        UNIX Shells --> ['unix shells']
+2Z86632:                                 User interfaces (Computer systems) --> ['user interfaces', 'computer systems']
+UN3FDAL:                                                   Audio amplifiers --> ['audio amplifiers']
+UN3FDAL:                                            Design and construction --> ['design', 'construction']
+UN3FDAL:                                                   Power amplifiers --> ['power amplifiers']
+2AEUHQI:                                        High-fidelity sound systems --> ['high-fidelity sound systems']
+MNF4KK7:                                                Computer interfaces --> ['computer interfaces']
+MNF4KK7:                                                    Data processing --> ['data processing']
+MNF4KK7:                                                             MATLAB --> ['matlab']
+MNF4KK7:                                                 Numerical analysis --> ['numerical analysis']
+MNF4KK7:                            Parallel programming (Computer science) --> ['parallel programming', 'computer science']
+AFG7CW4:                                     Functions of complex variables --> ['functions of complex variables']
+DC5JQHB:                                                  Computer networks --> ['computer networks']
+DC5JQHB:                                                  Telecommunication --> ['telecommunication']
+DC5JQHB:                                                            Traffic --> ['traffic']
+7UYDV3N:                                              Computer-aided design --> ['computer-aided design']
+7UYDV3N:                                          Integrated circuit layout --> ['integrated circuit layout']
+7UYDV3N:                                                Integrated circuits --> ['integrated circuits']
+7UYDV3N:                          Metal oxide semiconductors, Complementary --> ['complementary', 'metal oxide semiconductors']
+KYFD345:                                                           Calculus --> ['calculus']
+KYFD345:                                                          Textbooks --> ['textbooks']
+KYFD345:                                           Transcendental functions --> ['transcendental functions']
+3IFXEKD:                                         Bose-Einstein condensation --> ['bose-einstein condensation']
+UYPVWUF:                             Regular expressions (Computer science) --> ['regular expressions', 'computer science']
+UYPVWUF:                                 Text processing (Computer science) --> ['computer science', 'text processing']
+JHPGGLC:                                 Python (Computer program language) --> ['python', 'computer program language']
+549MG2Y:                                            Design and construction --> ['design', 'construction']
+549MG2Y:                                          Embedded computer systems --> ['embedded computer systems']
+549MG2Y:                                                    Microprocessors --> ['microprocessors']
+H6JRZYZ:                                                        Mathematics --> ['mathematics']
+JRDD3FC:                                                Computer algorithms --> ['computer algorithms']
+4YUAV2B:                                                Computer algorithms --> ['computer algorithms']
+4YUAV2B:                                 Data structures (Computer science) --> ['computer science', 'data structures']
+CJX39N2:                                            Artificial intelligence --> ['artificial intelligence']
+CJX39N2:                                                     Computer games --> ['computer games']
+CJX39N2:                                                        Programming --> ['programming']
+BR7I9XZ:                                            Artificial intelligence --> ['artificial intelligence']
+BR7I9XZ:                                                     Computer games --> ['computer games']
+BR7I9XZ:                                                             Design --> ['design']
+BR7I9XZ:                                                        Programming --> ['programming']
+BR7I9XZ:                                                        Video games --> ['video games']
+HCGX2CG:                                                     Fluid dynamics --> ['fluid dynamics']
+HCGX2CG:                                                    Gas engineering --> ['gas engineering']
+HCGX2CG:                                                Mathematical models --> ['mathematical models']
+HCGX2CG:                                          Oil reservoir engineering --> ['oil reservoir engineering']
+APUCJED:                                                  Algebra, Abstract --> ['algebra', 'abstract']
+UALBWJ8:                                                          Biography --> ['biography']
+UALBWJ8:                                                            History --> ['history']
+UALBWJ8:                                                    Mayne, W. Harry --> ['w. harry', 'mayne']
+UALBWJ8:                                               Petroleum geologists --> ['petroleum geologists']
+UALBWJ8:                              Petty Geophysical Engineering Company --> ['petty geophysical engineering company']
+UALBWJ8:                                                Seismic prospecting --> ['seismic prospecting']
+UALBWJ8:                                                      United States --> ['united states']
+APPNQDJ:                                                Seismic prospecting --> ['seismic prospecting']
+NY4L26A:                                                                  C --> ['c']
+NY4L26A:                          Functional programming (Computer science) --> ['computer science', 'functional programming']
+9LJZFVH:                                                                  C --> ['c']
+9LJZFVH:                                                       Intermediate --> ['intermediate']
+TYNX3K8:                                                                  C --> ['c']
+TYNX3K8:                                                       Intermediate --> ['intermediate']
+EANLQEB:                                                                  C --> ['c']
+EANLQEB:                                                       Intermediate --> ['intermediate']
+XNUCGUA:                                                                  C --> ['c']
+XNUCGUA:                                                Computer algorithms --> ['computer algorithms']
+XNUCGUA:                                                       Intermediate --> ['intermediate']
+VC8ZWR7:                                                                  C --> ['c']
+VC8ZWR7:                                                       Intermediate --> ['intermediate']
+8XA9HV7:                                                           Beginner --> ['beginner']
+8XA9HV7:                                                                  C --> ['c']
+K6CXW9K:                                                                  C --> ['c']
+K6CXW9K:                                                       Intermediate --> ['intermediate']
+K6CXW9K:                            Parallel programming (Computer science) --> ['parallel programming', 'computer science']
+HIEVXBN:                                                                  C --> ['c']
+HIEVXBN:                                                       Intermediate --> ['intermediate']
+P6KN9V5:                                                                  C --> ['c']
+ME7QVT8:                                                                  C --> ['c']
+JGQNDAQ:                                                                  C --> ['c']
+JGQNDAQ:                                                       Intermediate --> ['intermediate']
+P59FT55:                                                                  C --> ['c']
+P59FT55:                                                       Intermediate --> ['intermediate']
+9QYUJH4:                                                                  C --> ['c']
+9QYUJH4:                                                       Intermediate --> ['intermediate']
+3KQ6XWE:                                                           Beginner --> ['beginner']
+3KQ6XWE:                                                                  C --> ['c']
+ZT5BG8H:                                                                  C --> ['c']
+ZT5BG8H:                                                       Intermediate --> ['intermediate']
+ZHNGI24:                                                           Beginner --> ['beginner']
+ZHNGI24:                                                                  C --> ['c']
+QMAL2HB:                                                           Beginner --> ['beginner']
+QMAL2HB:                                                                  C --> ['c']
+VD2I8P2:                                                           Beginner --> ['beginner']
+VD2I8P2:                                                                  C --> ['c']
+3R3Y7DH:                                                                  C --> ['c']
+3R3Y7DH:                                 OpenCL (Computer program language) --> ['opencl', 'computer program language']
+3R3Y7DH:                            Parallel programming (Computer science) --> ['parallel programming', 'computer science']
+93TLSYJ:                                                                  C --> ['c']
+93TLSYJ:                            Parallel programming (Computer science) --> ['parallel programming', 'computer science']
+NVVMRGX:                                                                  C --> ['c']
+XCQRQWE:                                       Computers / Computer Science --> ['computer science', 'computers']
+XCQRQWE:                                                Computers / General --> ['computers']
+XCQRQWE:                               Computers / Programming / Algorithms --> ['programming', 'computers', 'algorithms']
+XCQRQWE:                                    Mathematics / Algebra / General --> ['mathematics', 'algebra']
+XCQRQWE:                                 Mathematics / Discrete Mathematics --> ['mathematics', 'discrete mathematics']
+XCQRQWE:                                              Mathematics / General --> ['mathematics']
+XCQRQWE:                                              Mathematics / General --> ['mathematics']
+VT2XMTM:                                     Mathematics / Algebra / Linear --> ['mathematics', 'algebra', 'linear']
+VT2XMTM:                                     Mathematics / Algebra / Linear --> ['mathematics', 'algebra', 'linear']
+FTG44SA:                                                 Linear programming --> ['linear programming']
+FTG44SA:                                        Network analysis (Planning) --> ['planning', 'network analysis']
+Q7HMU3L:                                           computation and language --> ['computation', 'language']
+2FXGS57:                                           computation and language --> ['computation', 'language']
+WQA3987:                                                  Computer graphics --> ['computer graphics']
+LWET7DS:                                                Computers / General --> ['computers']
+LWET7DS:                         Computers / Management Information Systems --> ['management information systems', 'computers']
+LWET7DS:                                    Mathematics / Algebra / General --> ['mathematics', 'algebra']
+2B4YZ9T:                                                Calculus of tensors --> ['calculus of tensors']
+2B4YZ9T:                                                     Fluid dynamics --> ['fluid dynamics']
+2B4YZ9T:                                                    Vector analysis --> ['vector analysis']
+23SUZ6J:                                                 Numerical analysis --> ['numerical analysis']
+FTFL5DC:                                                Computer simulation --> ['computer simulation']
+FTFL5DC:                                                    Data processing --> ['data processing']
+FTFL5DC:                                                            Physics --> ['physics']
+FTFL5DC:                                                 Simulation methods --> ['simulation methods']
+F6KBZJ4:                                            Artificial intelligence --> ['artificial intelligence']
+F6KBZJ4:                                               Research Methodology --> ['research methodology']
+EV5ITU5:                                               SCIENCE / Geophysics --> ['science', 'geophysics']
+EV5ITU5:                                               SCIENCE / Geophysics --> ['science', 'geophysics']
+EV5ITU5:                                                         Seismology --> ['seismology']
+EV5ITU5:                                                          Textbooks --> ['textbooks']
+B7XZHUH:                                                    Data processing --> ['data processing']
+B7XZHUH:                                                 Numerical analysis --> ['numerical analysis']
+PN6Z78G:                                                           Big data --> ['big data']
+PN6Z78G:                                                          Democracy --> ['democracy']
+PN6Z78G:                      Mathematical models Moral and ethical aspects --> ['mathematical models moral', 'ethical aspects']
+PN6Z78G:                                                  Political aspects --> ['political aspects']
+PN6Z78G:                                                     Social aspects --> ['social aspects']
+PN6Z78G:                                                  Social conditions --> ['social conditions']
+PN6Z78G:                                                  Social indicators --> ['social indicators']
+PN6Z78G:                                                      United States --> ['united states']
+YENIVTR:                                 Computers / Information Technology --> ['information technology', 'computers']
+GPC7DQ7:                                                  Computer graphics --> ['computer graphics']
+GPC7DQ7:                                                          Databases --> ['databases']
+GPC7DQ7:                                                       Dictionaries --> ['dictionaries']
+GPC7DQ7:                                        Digital computer simulation --> ['digital computer simulation']
+GPC7DQ7:                                       Digital techniques Databases --> ['digital techniques databases']
+GPC7DQ7:                                         Human-computer interaction --> ['human-computer interaction']
+GPC7DQ7:                                                   Image processing --> ['image processing']
+GPC7DQ7:                                                          Radiosity --> ['radiosity']
+GPC7DQ7:                                                    Virtual reality --> ['virtual reality']
+ITW2QCD:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+X5THYXT:                                                  Computer graphics --> ['computer graphics']
+SIY9A7E:                                                  Computer graphics --> ['computer graphics']
+SIY9A7E:                                          Graphics processing units --> ['graphics processing units']
+SIY9A7E:                                                   Mobile computing --> ['mobile computing']
+SIY9A7E:                                                   Pocket computers --> ['pocket computers']
+SIY9A7E:                                                        Programming --> ['programming']
+SIY9A7E:                                      Rendering (Computer graphics) --> ['rendering', 'computer graphics']
+XKVTTLH:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+JFKC3I9:                                          Computers / Web / General --> ['web', 'computers']
+6QRGNMT:                                                     Computer games --> ['computer games']
+6QRGNMT:                                                  Computer graphics --> ['computer graphics']
+6QRGNMT:                                                        Programming --> ['programming']
+E2KZRV7:                                                     Computer games --> ['computer games']
+E2KZRV7:                                                  Computer graphics --> ['computer graphics']
+E2KZRV7:                                                  Computer software --> ['computer software']
+E2KZRV7:                                                        Programming --> ['programming']
+MD3CA5D:                                                Statistical Methods --> ['statistical methods']
+MD3CA5D:                                                Statistical Physics --> ['statistical physics']
+MD3CA5D:                                                 Topic Segmentation --> ['topic segmentation']
+VXNHDLS:                                        Computers / Data Processing --> ['computers', 'data processing']
+VXNHDLS:                                        Computers / Data Processing --> ['computers', 'data processing']
+VXNHDLS:                                 Computers / Information Technology --> ['information technology', 'computers']
+VXNHDLS:                                              Mathematics / Applied --> ['mathematics applied']
+VXNHDLS:                                              Mathematics / Applied --> ['mathematics applied']
+VXNHDLS:                                Mathematics / Counting & Numeration --> ['mathematics', 'counting', 'numeration']
+VXNHDLS:                                Mathematics / Counting & Numeration --> ['mathematics', 'counting', 'numeration']
+VXNHDLS:                                 Mathematics / Discrete Mathematics --> ['mathematics', 'discrete mathematics']
+VXNHDLS:                                   Mathematics / Numerical Analysis --> ['mathematics', 'numerical analysis']
+VXNHDLS:                                   Mathematics / Numerical Analysis --> ['mathematics', 'numerical analysis']
+VXNHDLS:                   Technology & Engineering / Engineering (General) --> ['engineering', 'technology']
+VXNHDLS:                   Technology & Engineering / Engineering (General) --> ['engineering', 'technology']
+VFXS5GQ:                                     Science / Physics / Geophysics --> ['science', 'geophysics', 'physics']
+VFXS5GQ:                                     Science / Physics / Geophysics --> ['science', 'geophysics', 'physics']
+DWS9SEA:                                                Computer simulation --> ['computer simulation']
+DWS9SEA:                                        Geology Mathematical models --> ['geology mathematical models']
+DWS9SEA:                                                         Oil fields --> ['oil fields']
+DWS9SEA:                                                          Petroleum --> ['petroleum']
+8MPQ6F9:                                                         Congresses --> ['congresses']
+8MPQ6F9:                                                    Data processing --> ['data processing']
+8MPQ6F9:                                                        Engineering --> ['engineering']
+8MPQ6F9:                                         High performance computing --> ['high performance computing']
+8MPQ6F9:                                                            Science --> ['science']
+MAQAFJ2:                                               Internet programming --> ['internet programming']
+MAQAFJ2:                     Object-oriented programming (Computer science) --> ['object-oriented programming', 'computer science']
+MAQAFJ2:          Simple Object Access Protocol (Computer network protocol) --> ['simple object access protocol', 'computer network protocol']
+MAQAFJ2:                                     XML (Document markup language) --> ['document markup language', 'xml']
+54FRT3K:                                          Mathematical optimization --> ['mathematical optimization']
+S3YSLE3:                                                   Computer science --> ['computer science']
+S3YSLE3:                                                Mathematical models --> ['mathematical models']
+S3YSLE3:                                                        Mathematics --> ['mathematics']
+P8MKTIB:                                                Computer algorithms --> ['computer algorithms']
+P8MKTIB:                                               Computer programming --> ['computer programming']
+N9CAJXT:                                                    Data processing --> ['data processing']
+N9CAJXT:                                                    Database design --> ['database design']
+N9CAJXT:                                                Database management --> ['database management']
+N9CAJXT:                                                          Databases --> ['databases']
+N9CAJXT:                                                       Graph theory --> ['graph theory']
+JT7IMJQ:                        Error-correcting codes (Information theory) --> ['error-correcting codes', 'information theory']
+XAXYDAW:                                         Combinatorial optimization --> ['combinatorial optimization']
+XAXYDAW:                                                       Graph theory --> ['graph theory']
+8SIG3SP:                                            Geology Data processing --> ['geology data processing']
+8SIG3SP:                                Geophysical methods Data processing --> ['geophysical methods data processing']
+8SIG3SP:                                                          Petroleum --> ['petroleum']
+8SIG3SP:                                                        Prospecting --> ['prospecting']
+8SIG3SP:                                        Prospecting Data processing --> ['prospecting data processing']
+3MRU7CZ:                                                         Congresses --> ['congresses']
+3MRU7CZ:                                                 Numerical analysis --> ['numerical analysis']
+I5WPALZ:                                    Differential equations, Partial --> ['partial', 'differential equations']
+I5WPALZ:                                                 Finite differences --> ['finite differences']
+I5WPALZ:                                                Numerical solutions --> ['numerical solutions']
+Q37PY8X:                                                  Computer graphics --> ['computer graphics']
+Q37PY8X:                                       Interactive computer systems --> ['interactive computer systems']
+Q37PY8X:                                                             OpenGL --> ['opengl']
+Q37PY8X:                                                              WebGL --> ['webgl']
+EH734GF:                                                   Database Systems --> ['database systems']
+EH734GF:                                                Database Technology --> ['database technology']
+U2BQVQJ:                                                 Digital techniques --> ['digital techniques']
+U2BQVQJ:                                                  Signal processing --> ['signal processing']
+M2WTYHW:                                                           Matrices --> ['matrices']
+XYW8J8J:                                            Artificial intelligence --> ['artificial intelligence']
+XYW8J8J:                                                     Computer games --> ['computer games']
+XYW8J8J:                                                             Design --> ['design']
+XYW8J8J:                                                     Human behavior --> ['human behavior']
+XYW8J8J:                                                        Mathematics --> ['mathematics']
+XYW8J8J:                                                        Programming --> ['programming']
+424T6NG:                                                      Elastic waves --> ['elastic waves']
+424T6NG:                                             Wave-motion, Theory of --> ['wave-motion', 'theory of']
+GF9XQ6W:                                                Geology Methodology --> ['geology methodology']
+GF9XQ6W:                                                        Methodology --> ['methodology']
+GF9XQ6W:                                                          Petroleum --> ['petroleum']
+GF9XQ6W:                                          Seismic reflection method --> ['seismic reflection method']
+GF9XQ6W:                                                         Seismology --> ['seismology']
+WL6HLUE:                                         Vertical seismic profiling --> ['vertical seismic profiling']
+CH9XSTY:                                                Geophysical methods --> ['geophysical methods']
+CH9XSTY:                                                        Prospecting --> ['prospecting']
+CH9XSTY:                                           Seismic wave propagation --> ['seismic wave propagation']
+SCYRHAS:                                      Digital filters (Mathematics) --> ['mathematics', 'digital filters']
+SCYRHAS:                                          Seismic reflection method --> ['seismic reflection method']
+SCYRHAS:                                                         Seismology --> ['seismology']
+SCYRHAS:                                                  Signal processing --> ['signal processing']
+XXISMBM:                                           Boundary element methods --> ['boundary element methods']
+XXISMBM:                                                         Geophysics --> ['geophysics']
+XXISMBM:                                                        Mathematics --> ['mathematics']
+Y77M72S:                                                    Data processing --> ['data processing']
+Y77M72S:                                                           Matrices --> ['matrices']
+XFNZQWB:                                                        Mathematics --> ['mathematics']
+XFNZQWB:                                                 Multimedia systems --> ['multimedia systems']
+IBVL7NC:                                                      Wave equation --> ['wave equation']
+IBVL7NC:                                             Wave-motion, Theory of --> ['wave-motion', 'theory of']
+TVYNM3Q:                                    Differential equations, Partial --> ['partial', 'differential equations']
+TTS3XC4:                                         Agile software development --> ['agile software development']
+TTS3XC4:                                                  Computer software --> ['computer software']
+TTS3XC4:                                                        Reliability --> ['reliability']
+QJW5KMU:                                               Computer programming --> ['computer programming']
+R8QALPZ:                                                 Numerical analysis --> ['numerical analysis']
+I6JPSVA:                                            Mathematical statistics --> ['mathematical statistics']
+I6JPSVA:                                                      Probabilities --> ['probabilities']
+I6JPSVA:                                                          Textbooks --> ['textbooks']
+V46HJLC:                                                  Computer programs --> ['computer programs']
+V46HJLC:                   MATHEMATICS / Probability & Statistics / General --> ['statistics', 'mathematics', 'probability']
+V46HJLC:                   MATHEMATICS / Probability & Statistics / General --> ['statistics', 'mathematics', 'probability']
+V46HJLC:                                             Programmed instruction --> ['programmed instruction']
+V46HJLC:                                 Programmed instructional materials --> ['programmed instructional materials']
+V46HJLC:                                              Quantitative research --> ['quantitative research']
+V46HJLC:                                                         Statistics --> ['statistics']
+V46HJLC:                                                 Study and teaching --> ['study', 'teaching']
+HI3HEW5:                               Bayesian statistical decision theory --> ['bayesian statistical decision theory']
+HI3HEW5:                                                    Data processing --> ['data processing']
+HI3HEW5:                                 Python (Computer program language) --> ['python', 'computer program language']
+N3NY4FP:                                                         Algorithms --> ['algorithms']
+N3NY4FP:                                                        Game theory --> ['game theory']
+CS36EYZ:                                                         JavaScript --> ['javascript']
+C9JVICD:                         Computer Science - Artificial Intelligence --> ['computer science', 'artificial intelligence']
+C9JVICD:                                                   Machine Learning --> ['machine learning']
+8HULA8J:                                          Physics - Popular Physics --> ['popular physics', 'physics']
+V6BTGZW:                 Computer Science - Social and Information Networks --> ['computer science', 'information networks', 'social']
+V6BTGZW:                                      Physics - Physics and Society --> ['society', 'physics']
+V6BTGZW:                                          Statistics - Applications --> ['statistics', 'applications']
+2E87ZAR:                Computer Science - Computer Science and Game Theory --> ['computer science', 'game theory']
+2E87ZAR:                                                   Machine Learning --> ['machine learning']
+VEF77RF:                            Computer Science - Discrete Mathematics --> ['computer science', 'discrete mathematics']
+VEF77RF:                                        Mathematics - Combinatorics --> ['mathematics', 'combinatorics']
+YRMFIKN:                                                   Machine Learning --> ['machine learning']
+YRMFIKN:                                  Neural and Evolutionary Computing --> ['neural computing', 'evolutionary computing']
+355LSNN:                                   Mathematics - Numerical Analysis --> ['mathematics', 'numerical analysis']
+FQSI7JZ:                                                              11Y16 --> ['11y16']
+FQSI7JZ:                  Computer Science - Data Structures and Algorithms --> ['computer science', 'data structures', 'algorithms']
+FQSI7JZ:                                                      Number Theory --> ['number theory']
+E6KWFPZ:                                                Computer algorithms --> ['computer algorithms']
+E6KWFPZ:                                                          Textbooks --> ['textbooks']
+ESEZAMG:                                                Stress (Physiology) --> ['stress', 'physiology']
+ESEZAMG:                                                Stress (Psychology) --> ['psychology', 'stress']
+ESEZAMG:                                                  Stress management --> ['stress management']
+ZUGH54E:                                              Mathematical analysis --> ['mathematical analysis']
+ZUGH54E:                                                          Textbooks --> ['textbooks']
+HMI4CV5:                         Parallel processing (Electronic computers) --> ['electronic computers', 'parallel processing']
+HMI4CV5:                               Vector processing (Computer science) --> ['computer science', 'vector processing']
+4YXTWEC:                                                  Fallacies (Logic) --> ['logic', 'fallacies']
+4YXTWEC:                                                          Reasoning --> ['reasoning']
+3VX7WYT:                                                   Algebras, Linear --> ['linear algebra']
+3VX7WYT:                                                          Textbooks --> ['textbooks']
+3UZN3C3:                                                    Data processing --> ['data processing']
+3UZN3C3:                                      R (Computer program language) --> ['r', 'computer program language']
+3UZN3C3:                                               Time-series analysis --> ['time-series analysis']
+8NK4AAY:                                                     Fluid dynamics --> ['fluid dynamics']
+8NK4AAY:                                                Mathematical models --> ['mathematical models']
+8NK4AAY:                                          Oil reservoir engineering --> ['oil reservoir engineering']
+8NK4AAY:                                                           Porosity --> ['porosity']
+8BIZ728:                                                         Congresses --> ['congresses']
+8BIZ728:                                                         Seismology --> ['seismology']
+8BIZ728:                                                        Shear waves --> ['shear waves']
+T5IWE8P:                                      Computers / Computer Graphics --> ['computer graphics', 'computers']
+T5IWE8P:                      Computers / Digital Media / Video & Animation --> ['digital media', 'animation', 'computers', 'video']
+T5IWE8P:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+LXVV3NY:                         Computers / Programming Languages / Python --> ['python', 'computers', 'programming languages']
+LXVV3NY:                         Computers / Programming Languages / Python --> ['python', 'computers', 'programming languages']
+F3RMAKG:                           Computers / Programming Languages / HTML --> ['html', 'computers', 'programming languages']
+F3RMAKG:                     Computers / Programming Languages / JavaScript --> ['javascript', 'computers', 'programming languages']
+F3RMAKG:                                         Computers / Web / Browsers --> ['web', 'browsers', 'computers']
+F3RMAKG:                                         Computers / Web / Browsers --> ['web', 'browsers', 'computers']
+F3RMAKG:                                  Computers / Web / Web Programming --> ['web programming', 'web', 'computers']
+VRQLLS4:                                                      Art / Digital --> ['art', 'digital']
+VRQLLS4:                                                      Art / Digital --> ['art', 'digital']
+VRQLLS4:               Computers / Desktop Applications / Design & Graphics --> ['design', 'desktop applications', 'computers', 'graphics']
+VRQLLS4:               Computers / Desktop Applications / Design & Graphics --> ['design', 'desktop applications', 'computers', 'graphics']
+PYC8XMK:                                                Computers / History --> ['history', 'computers']
+PYC8XMK:                                                Computers / History --> ['history', 'computers']
+PYC8XMK:                            Games & Activities / Video & Electronic --> ['activities', 'electronic', 'games', 'video']
+PYC8XMK:                                 Technology & Engineering / History --> ['engineering', 'technology', 'history']
+PYC8XMK:                                 Technology & Engineering / History --> ['engineering', 'technology', 'history']
+ZYS3QZH:                              Technology & Engineering / Electrical --> ['engineering', 'electrical', 'technology']
+ZYS3QZH:                              Technology & Engineering / Electrical --> ['engineering', 'electrical', 'technology']
+ZYS3QZH:                   Technology & Engineering / Electronics / Digital --> ['electronics', 'digital', 'engineering', 'technology']
+ZYS3QZH:                   Technology & Engineering / Electronics / Digital --> ['electronics', 'digital', 'engineering', 'technology']
+7Y5WU3L:                      Psychology / Cognitive Psychology & Cognition --> ['cognitive psychology', 'psychology', 'cognition']
+7Y5WU3L:                      Psychology / Cognitive Psychology & Cognition --> ['cognitive psychology', 'psychology', 'cognition']
+W8GIAX5:                                              Mathematics / General --> ['mathematics']
+W8GIAX5:                                              Mathematics / General --> ['mathematics']
+W8GIAX5:                                   Mathematics / Geometry / General --> ['mathematics', 'geometry']
+W8GIAX5:                                   Mathematics / Geometry / General --> ['mathematics', 'geometry']
+W8GIAX5:                                   Mathematics / Numerical Analysis --> ['mathematics', 'numerical analysis']
+W8GIAX5:                                   Mathematics / Numerical Analysis --> ['mathematics', 'numerical analysis']
+TWRBC9P:                                        Computers / User Interfaces --> ['user interfaces', 'computers']
+TWRBC9P:                                        Computers / User Interfaces --> ['user interfaces', 'computers']
+TUS264Q:                           Computers / Programming Languages / HTML --> ['html', 'computers', 'programming languages']
+F8MSLV8:                                             Mathematics / Calculus --> ['mathematics', 'calculus']
+F8MSLV8:                                             Mathematics / Calculus --> ['mathematics', 'calculus']
+F8MSLV8:                                              Mathematics / General --> ['mathematics']
+F8MSLV8:                                              Mathematics / General --> ['mathematics']
+F8MSLV8:                                                  Science / General --> ['science']
+F8MSLV8:                                                  Science / General --> ['science']
+9QLH586:                                                Computers / General --> ['computers']
+Z94YLEW:                                       Computers / Computer Science --> ['computer science', 'computers']
+Z94YLEW:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+VUFG9G8:                                        Computers / Microprocessors --> ['microprocessors', 'computers']
+VUFG9G8:                                        Computers / Microprocessors --> ['microprocessors', 'computers']
+VUFG9G8: Computers / Systems Architecture / Distributed Systems & Computing --> ['computing', 'distributed systems', 'computers', 'systems architecture']
+VUFG9G8: Computers / Systems Architecture / Distributed Systems & Computing --> ['computing', 'distributed systems', 'computers', 'systems architecture']
+RBVD93G:                                        Computers / Microprocessors --> ['microprocessors', 'computers']
+RBVD93G:                                        Computers / Microprocessors --> ['microprocessors', 'computers']
+RBVD93G: Computers / Systems Architecture / Distributed Systems & Computing --> ['computing', 'distributed systems', 'computers', 'systems architecture']
+RBVD93G: Computers / Systems Architecture / Distributed Systems & Computing --> ['computing', 'distributed systems', 'computers', 'systems architecture']
+RBVD93G:                         Computers / Systems Architecture / General --> ['computers', 'systems architecture']
+RBVD93G:                         Computers / Systems Architecture / General --> ['computers', 'systems architecture']
+K8XZAQ8:                                     Computers / Web / Social Media --> ['web', 'social media', 'computers']
+K8XZAQ8:                                     Computers / Web / Social Media --> ['web', 'social media', 'computers']
+JF8KY5I:                                             Mathematics / Calculus --> ['mathematics', 'calculus']
+JF8KY5I:                                             Mathematics / Calculus --> ['mathematics', 'calculus']
+JF8KY5I:                                              Mathematics / General --> ['mathematics']
+JF8KY5I:                                              Mathematics / General --> ['mathematics']
+JF8KY5I:                       Mathematics / Linear & Nonlinear Programming --> ['mathematics', 'linear programming', 'nonlinear programming']
+JF8KY5I:                       Mathematics / Linear & Nonlinear Programming --> ['mathematics', 'linear programming', 'nonlinear programming']
+JF8KY5I:                                   Mathematics / Numerical Analysis --> ['mathematics', 'numerical analysis']
+JF8KY5I:                                   Mathematics / Numerical Analysis --> ['mathematics', 'numerical analysis']
+JF8KY5I:                                      Mathematics / Vector Analysis --> ['mathematics', 'vector analysis']
+JF8KY5I:                                      Mathematics / Vector Analysis --> ['mathematics', 'vector analysis']
+YCGR8HZ:                                        Computers / Data Processing --> ['computers', 'data processing']
+YCGR8HZ:                                        Computers / Data Processing --> ['computers', 'data processing']
+YCGR8HZ:                                Computers / Databases / Data Mining --> ['data mining', 'computers', 'databases']
+YCGR8HZ:                                Computers / Databases / Data Mining --> ['data mining', 'computers', 'databases']
+YCGR8HZ:                         Computers / Programming Languages / Python --> ['python', 'computers', 'programming languages']
+YCGR8HZ:                         Computers / Programming Languages / Python --> ['python', 'computers', 'programming languages']
+Z9DJ967:                                                Mathematics / Logic --> ['mathematics', 'logic']
+Z9DJ967:                                                Mathematics / Logic --> ['mathematics', 'logic']
+XEKM6HZ:                                       Computers / Computer Science --> ['computer science', 'computers']
+XEKM6HZ:                                        Computers / Data Processing --> ['computers', 'data processing']
+XEKM6HZ:                                        Computers / Data Processing --> ['computers', 'data processing']
+XEKM6HZ:                                                Computers / General --> ['computers']
+XEKM6HZ:                                              Mathematics / Applied --> ['mathematics applied']
+XEKM6HZ:                                              Mathematics / Applied --> ['mathematics applied']
+XEKM6HZ:                                 Mathematics / Discrete Mathematics --> ['mathematics', 'discrete mathematics']
+XEKM6HZ:                   Science / Physics / Mathematical & Computational --> ['science', 'mathematical', 'physics', 'computational']
+XEKM6HZ:                   Science / Physics / Mathematical & Computational --> ['science', 'mathematical', 'physics', 'computational']
+86FWETW:                                    Mathematics / Algebra / General --> ['mathematics', 'algebra']
+86FWETW:                                     Mathematics / Algebra / Linear --> ['mathematics', 'algebra', 'linear']
+86FWETW:                                     Mathematics / Algebra / Linear --> ['mathematics', 'algebra', 'linear']
+YTLRGHX:                                                Computers / CAD-CAM --> ['cad-cam', 'computers']
+YTLRGHX:                                                Computers / CAD-CAM --> ['cad-cam', 'computers']
+YTLRGHX:                                              Mathematics / Applied --> ['mathematics applied']
+YTLRGHX:                                              Mathematics / Applied --> ['mathematics applied']
+YTLRGHX:                                Mathematics / Mathematical Analysis --> ['mathematical analysis', 'mathematics']
+YTLRGHX:                                Mathematics / Mathematical Analysis --> ['mathematical analysis', 'mathematics']
+YTLRGHX:                                   Mathematics / Numerical Analysis --> ['mathematics', 'numerical analysis']
+YTLRGHX:                                   Mathematics / Numerical Analysis --> ['mathematics', 'numerical analysis']
+YTLRGHX:                                                  Medical / General --> ['medical']
+YTLRGHX:                                                  Medical / General --> ['medical']
+YTLRGHX:                                       Science / Mechanics / Fluids --> ['science', 'fluids', 'mechanics']
+YTLRGHX:                                       Science / Mechanics / Fluids --> ['science', 'fluids', 'mechanics']
+YTLRGHX:                   Technology & Engineering / Engineering (General) --> ['engineering', 'technology']
+YTLRGHX:                   Technology & Engineering / Engineering (General) --> ['engineering', 'technology']
+3KEPQXH:                    Computers / Mathematical & Statistical Software --> ['mathematical', 'computers', 'statistical software']
+3KEPQXH:                    Computers / Mathematical & Statistical Software --> ['mathematical', 'computers', 'statistical software']
+3KEPQXH:                         Computers / Programming Languages / Python --> ['python', 'computers', 'programming languages']
+3KEPQXH:                         Computers / Programming Languages / Python --> ['python', 'computers', 'programming languages']
+2HYEUBE:                                 Computers / Information Technology --> ['information technology', 'computers']
+2HYEUBE:                                  Computers / Web / Web Programming --> ['web programming', 'web', 'computers']
+NFBW5H7:                                                Computers / General --> ['computers']
+NFBW5H7:                                 Mathematics / Discrete Mathematics --> ['mathematics', 'discrete mathematics']
+NFBW5H7:                                 Technology & Engineering / General --> ['engineering', 'technology']
+NFBW5H7:                                 Technology & Engineering / General --> ['engineering', 'technology']
+ERDBHI4:                                      Computers / Computer Graphics --> ['computer graphics', 'computers']
+ERDBHI4:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+JUDKH36:                                      Computers / Computer Graphics --> ['computer graphics', 'computers']
+JUDKH36:                                       Computers / Computer Science --> ['computer science', 'computers']
+JUDKH36:                      Computers / Digital Media / Video & Animation --> ['digital media', 'animation', 'computers', 'video']
+JUDKH36:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+HT79WXF:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+FR2KBNZ:                               Computers / Interactive & Multimedia --> ['computers', 'multimedia', 'interactive']
+FR2KBNZ:                               Computers / Interactive & Multimedia --> ['computers', 'multimedia', 'interactive']
+FR2KBNZ:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+PZKXV8J:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+ZRUZD5E:                                                 Art / Graphic Arts --> ['art', 'graphic arts']
+ZRUZD5E:                           Business & Economics / Careers / General --> ['careers', 'business', 'economics']
+ZRUZD5E:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+EJAMSCW:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+8S3SU95:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+KWHZ4LD:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+7M5NWF5:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+7M5NWF5:                            Games & Activities / Video & Electronic --> ['activities', 'electronic', 'games', 'video']
+N9KH9DS:                                      Computers / Computer Graphics --> ['computer graphics', 'computers']
+N9KH9DS:                      Computers / Digital Media / Video & Animation --> ['digital media', 'animation', 'computers', 'video']
+N9KH9DS:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+N9KH9DS:                                 Science / Physics / Optics & Light --> ['science', 'physics', 'optics', 'light']
+N9KH9DS:                      Technology & Engineering / Lasers & Photonics --> ['photonics', 'engineering', 'lasers', 'technology']
+4JEPFCZ:                                 Computers / Information Technology --> ['information technology', 'computers']
+4JEPFCZ:                                  Computers / Web / Web Programming --> ['web programming', 'web', 'computers']
+LW2AWDE:                                    Computers / Programming / Games --> ['programming', 'games', 'computers']
+LW2AWDE:                           Computers / Programming Languages / HTML --> ['html', 'computers', 'programming languages']
+LW2AWDE:                     Computers / Programming Languages / JavaScript --> ['javascript', 'computers', 'programming languages']
+LW2AWDE:                                  Computers / Web / Web Programming --> ['web programming', 'web', 'computers']
+9JDX95X:                            Games & Activities / Video & Electronic --> ['activities', 'electronic', 'games', 'video']
+9JDX95X:                                   Social Science / Popular Culture --> ['popular culture', 'social science']
+9JDX95X:                      Technology & Engineering / Television & Video --> ['video', 'television', 'engineering', 'technology']
+4GKE5LZ:                                      Computers / Computer Graphics --> ['computer graphics', 'computers']
+4GKE5LZ:                                 Computers / Information Technology --> ['information technology', 'computers']
+4GKE5LZ:                                  Computers / Web / Web Programming --> ['web programming', 'web', 'computers']
+3KZH76X:                                        Computers / Neural Networks --> ['neural networks', 'computers']
+3KZH76X:                                          Social Science / Research --> ['social science', 'research']
+XHVDSGW:                                       Computers / Computer Science --> ['computer science', 'computers']
+XHVDSGW:                          Computers / Intelligence (AI) & Semantics --> ['semantics', 'intelligence', 'computers', 'ai']
+EQI9T4I:                                              Art / Popular Culture --> ['art', 'popular culture']
+EQI9T4I:                                  Art / Subjects & Themes / General --> ['art', 'subjects', 'themes']
+EQI9T4I:                            Games & Activities / Video & Electronic --> ['activities', 'electronic', 'games', 'video']
+N9NVEMC:                            Computers / Operating Systems / General --> ['computers', 'operating systems']
+N9NVEMC:                               Computers / Programming / Algorithms --> ['programming', 'computers', 'algorithms']
+N9NVEMC:                                        Mathematics / Combinatorics --> ['mathematics', 'combinatorics']
+N9NVEMC:                                 Mathematics / Discrete Mathematics --> ['mathematics', 'discrete mathematics']
+FNSH52P:                                  Mathematics - General Mathematics --> ['mathematics', 'general mathematics']
+VSBLDHG:                                                      Logic Program --> ['logic program']
+VSBLDHG:                                                       Stable Model --> ['stable model']
+VSBLDHG:                                                  Strong Constraint --> ['strong constraint']
+VSBLDHG:                                                          Time Slot --> ['time slot']
+VSBLDHG:                                                   Truth Assignment --> ['truth assignment']
+DUGAAYH:                 Astrophysics - High Energy Astrophysical Phenomena --> ['astrophysics', 'high energy astrophysical phenomena']
+DUGAAYH:                                      High Energy Physics - Lattice --> ['lattice', 'high energy physics']
+DUGAAYH:                                High Energy Physics - Phenomenology --> ['high energy physics', 'phenomenology']
+DUGAAYH:                                       High Energy Physics - Theory --> ['theory', 'high energy physics']
+DUGAAYH:                                                    Quantum Physics --> ['quantum physics']
+NSZYLNS:                                         Physics - Chemical Physics --> ['physics', 'chemical physics']
+NSZYLNS:                                    Physics - Computational Physics --> ['computational physics', 'physics']
+JHYB4AG:                                           Statistics - Methodology --> ['statistics', 'methodology']
+4I2NXNM:                                    Physics - Computational Physics --> ['computational physics', 'physics']
+4I2NXNM:                                           Physics - Fluid Dynamics --> ['physics', 'fluid dynamics']
+TGRULXR:                                               Mathematical Physics --> ['mathematical physics']
+TGRULXR:                                      Mathematics - Spectral Theory --> ['spectral theory', 'mathematics']
+4FKXCRN:                                                82C22, 60K35, 82C21 --> ['82c22', '60k35', '82c21']
+4FKXCRN:                                                  Dynamical Systems --> ['dynamical systems']
+4FKXCRN:                                               Mathematical Physics --> ['mathematical physics']
+5M7AML7:                                                  Dynamical Systems --> ['dynamical systems']
+5M7AML7:                                                      Number Theory --> ['number theory']
+T6RJR4X:                                    Physics - Computational Physics --> ['computational physics', 'physics']
+T6RJR4X:                Physics - Data Analysis, Statistics and Probability --> ['statistics', 'physics', 'probability', 'data analysis']
+KRWARBY:                        Computer Science - Computational Complexity --> ['computer science', 'computational complexity']
+KRWARBY:                Computer Science - Computer Science and Game Theory --> ['computer science', 'game theory']
+JVGTKCY:                                        Physics - Physics Education --> ['physics', 'physics education']
+3IT4PUH:                       Computer Science - Logic in Computer Science --> ['computer science', 'logic in computer science']
+Y4LQWI9:                                                              17D99 --> ['17d99']
+Y4LQWI9:                                                              57M27 --> ['57m27']
+Y4LQWI9:                                   Mathematics - Geometric Topology --> ['geometric topology', 'mathematics']
+Y4LQWI9:                                      Mathematics - Quantum Algebra --> ['quantum algebra', 'mathematics']
+KR8YICA:                                       High Energy Physics - Theory --> ['theory', 'high energy physics']
+KR8YICA:                                Mathematics - Differential Geometry --> ['mathematics', 'differential geometry']
+KR8YICA:                                      Mathematics - Quantum Algebra --> ['quantum algebra', 'mathematics']
+AGZA6G5:                                                    Data processing --> ['data processing']
+AGZA6G5:                                            Engineering mathematics --> ['engineering mathematics']
+AGZA6G5:                                                 Numerical analysis --> ['numerical analysis']
+AGZA6G5:                                 Python (Computer program language) --> ['python', 'computer program language']
+UBUJPJN:                                   Mathematics - Numerical Analysis --> ['mathematics', 'numerical analysis']
+X6A75H5:                                                   Machine Learning --> ['machine learning']
+ZSFDGK8:                                                   Machine Learning --> ['machine learning']
+VBT9M7R:                                                          Cognition --> ['cognition']
+VBT9M7R:                                       Human information processing --> ['human information processing']
+MN25WEH:                               Computational Theory and Mathematics --> ['mathematics', 'computational theory']
+MN25WEH:                                             Differential evolution --> ['differential evolution']
+MN25WEH:                                                 Fuzzy logic system --> ['fuzzy logic system']
+MN25WEH:                                                Information Systems --> ['information systems']
+MN25WEH:                                                       Player model --> ['player model']
+MN25WEH:                                                           Software --> ['software']
+MN25WEH:                                       Theoretical Computer Science --> ['theoretical computer science']
+MN25WEH:                                                         Video game --> ['video game']
+XQ2VXQS:                                              Character recognition --> ['character recognition']
+XQ2VXQS:                                                 Feature extraction --> ['feature extraction']
+XQ2VXQS:                                                                GTN --> ['gtn']
+XQ2VXQS:                                               Hidden Markov models --> ['hidden markov models']
+XQ2VXQS:                                                   Machine learning --> ['machine learning']
+XQ2VXQS:                                         Multi-layer neural network --> ['multi-layer neural network']
+XQ2VXQS:                                                    Neural networks --> ['neural networks']
+XQ2VXQS:                             Optical character recognition software --> ['optical character recognition software']
+XQ2VXQS:                                                  Optical computing --> ['optical computing']
+XQ2VXQS:                                                Pattern recognition --> ['pattern recognition']
+XQ2VXQS:                                       Principal component analysis --> ['principal component analysis']
+UQCJRNX:                            Computer Vision and Pattern Recognition --> ['pattern recognition', 'computer vision']
+UQCJRNX:                                                   Machine Learning --> ['machine learning']
+UQCJRNX:                                  Neural and Evolutionary Computing --> ['neural computing', 'evolutionary computing']
+S4QRHVP:                                                   Machine Learning --> ['machine learning']
+NBXNJYC:                                                         Authorship --> ['authorship']
+NBXNJYC:                                                     Computer games --> ['computer games']
+NBXNJYC:                                                             Design --> ['design']
+NBXNJYC:                                                        Game theory --> ['game theory']
+NBXNJYC:                                                              Games --> ['games']
+NBXNJYC:                                              Psychological aspects --> ['psychological aspects']
+NBXNJYC:                                             Situation (Philosophy) --> ['situation', 'philosophy']
+NBXNJYC:                                                        Video games --> ['video games']
+28YUMIE:                                                      Compter games --> ['compter games']
+28YUMIE:                                                             Design --> ['design']
+28YUMIE:                                    Level design (Computer science) --> ['computer science', 'level design']
+H6MP4IU:                                                   Algebras, Linear --> ['linear algebra']
+H6MP4IU:                                                          Textbooks --> ['textbooks']
+EAIT65V:                                                     Computer games --> ['computer games']
+EAIT65V:                                                             Design --> ['design']
+Z3K7BYT:                                      COMPUTERS / Computer Graphics --> ['computer graphics', 'computers']
+Z3K7BYT:                                    COMPUTERS / Programming / Games --> ['programming', 'games', 'computers']
+Z3K7BYT:                                                  Computer graphics --> ['computer graphics']
+Z3K7BYT:                                                      Digital video --> ['digital video']
+Z3K7BYT:                                          Graphics processing units --> ['graphics processing units']
+Z3K7BYT:                                                        Programming --> ['programming']
+Z3K7BYT:                                          Real-time data processing --> ['real-time data processing']
+Z3K7BYT:                                      Rendering (Computer graphics) --> ['rendering', 'computer graphics']
+J9NZYQ3:                                                     Computer games --> ['computer games']
+J9NZYQ3:                                                    Data processing --> ['data processing']
+J9NZYQ3:                                                            Physics --> ['physics']
+J9NZYQ3:                                                        Programming --> ['programming']
+ZUCIPGE:                                                  Computer Graphics --> ['computer graphics']
+ZUCIPGE:                                                     Digitalization --> ['digitalization']
+ZUCIPGE:                                                 Display Algorithms --> ['display algorithms']
+ZUCIPGE:                                                 Graphics Utilities --> ['graphics utilities']
+ZUCIPGE:                                      Picture and Image Generations --> ['picture generation', 'image generation']
+ZUCIPGE:                                                           Sampling --> ['sampling']
+7W7NXCT:                                                              Child --> ['child']
+7W7NXCT:                                                  Child Development --> ['child development']
+7W7NXCT:                                                   Child, Preschool --> ['preschool', 'child']
+7W7NXCT:                                                          Cognition --> ['cognition']
+7W7NXCT:                                                  Concept Formation --> ['concept formation']
+7W7NXCT:                                                             Female --> ['female']
+7W7NXCT:                                                             Humans --> ['humans']
+7W7NXCT:                                                               Male --> ['male']
+7W7NXCT:                                                             Memory --> ['memory']
+7W7NXCT:                                                  Psychology, Child --> ['child', 'psychology']
+7W7NXCT:                                                   Truth Disclosure --> ['truth disclosure']
+5N8WHYX:                                                         Guidebooks --> ['guidebooks']
+5N8WHYX:                                                             OpenGL --> ['opengl']
+5N8WHYX:                                                             Vulkan --> ['vulkan']
+KF7YZD3:                                            Artificial intelligence --> ['artificial intelligence']
+VATN6CU:                                       CUDA (Computer architecture) --> ['computer architecture', 'cuda']
+VATN6CU:                                                  Computer graphics --> ['computer graphics']
+VATN6CU:                                          Graphics processing units --> ['graphics processing units']
+VATN6CU:                            Parallel programming (Computer science) --> ['parallel programming', 'computer science']
+VATN6CU:                                                        Programming --> ['programming']
+XE738J9:                                                     Computer games --> ['computer games']
+XE738J9:                                                               HTML --> ['html']
+XE738J9:                                                        Programming --> ['programming']
+8ACPCIN:                                                      Apache Hadoop --> ['apache hadoop']
+8ACPCIN:                               File organization (Computer science) --> ['computer science', 'file organization']
+VEBNYG7:                                               Computer programming --> ['computer programming']
+VEBNYG7:                                                        Open Source --> ['open source']
+VEBNYG7:                                               Open source software --> ['open source software']
+VEBNYG7:                                                             Python --> ['python']
+VEBNYG7:                                 Python (Computer program language) --> ['python', 'computer program language']
+VEBNYG7:                     User Interfaces and Human Computer Interaction --> ['human computer interaction', 'user interfaces']
+VEBNYG7:                                 User interfaces (Computer systems) --> ['user interfaces', 'computer systems']
+A886X9H:                                          Data transmission systems --> ['data transmission systems']
+G8SS8YT:                                                     Computer games --> ['computer games']
+G8SS8YT:                                                             Design --> ['design']
+G8SS8YT:                                                        Game theory --> ['game theory']
+G8SS8YT:                                                              Games --> ['games']
+G8SS8YT:                                                        Uncertainty --> ['uncertainty']
+G8SS8YT:                                                        Video games --> ['video games']
+7392ZJN:                                                   Algebras, Linear --> ['linear algebra']
+7392ZJN:                                             Numerical calculations --> ['numerical calculations']
+TJXQQHL:                                                            History --> ['history']
+TJXQQHL:                                                        Video games --> ['video games']
+K6J6U9G:                                                Computer game music --> ['computer game music']
+K6J6U9G:                                          Computer sound processing --> ['computer sound processing']
+K6J6U9G:                       Recording and reproducing Digital techniques --> ['reproducing digital techniques', 'recording']
+K6J6U9G:                                                              Sound --> ['sound']
+K6J6U9G:                                                      Sound effects --> ['sound effects']
+K6J6U9G:                                                        Video games --> ['video games']
+UK3GW5M:                                                     Social aspects --> ['social aspects']
+UK3GW5M:                                                        Video games --> ['video games']
+9JU2WKR:                                                    Data processing --> ['data processing']
+9JU2WKR:                                                 Numerical analysis --> ['numerical analysis']
+YUVLJCC:                                              Mathematical analysis --> ['mathematical analysis']
+KBYZ9VW:                                                  Computer graphics --> ['computer graphics']
+KBYZ9VW:                                          Real-time data processing --> ['real-time data processing']
+KBYZ9VW:                                      Rendering (Computer graphics) --> ['rendering', 'computer graphics']
+NMHL8SJ:                                                     Computer games --> ['computer games']
+NMHL8SJ:                                                             Design --> ['design']
+NMHL8SJ:                                    Level design (Computer science) --> ['computer science', 'level design']
+CUDRV62:                                                   Machine learning --> ['machine learning']
+CUDRV62:                                            Mathematical statistics --> ['mathematical statistics']
+CUDRV62:                                                      Probabilities --> ['probabilities']
+CUDRV62:                                               Stochastic processes --> ['stochastic processes']
+PG2YXBU:                                            Mathematical statistics --> ['mathematical statistics']
+PG2YXBU:                                                      Probabilities --> ['probabilities']
+PG2YXBU:                                                          Textbooks --> ['textbooks']
+XHBGQ6M:                                                                CSS --> ['css']
+XHBGQ6M:                                                             Design --> ['design']
+XHBGQ6M:                                                               HTML --> ['html']
+XHBGQ6M:                                               Web site development --> ['web site development']
+XHBGQ6M:                                                          Web sites --> ['web sites']
+4FZ5DAG:                                                     Computer games --> ['computer games']
+4FZ5DAG:                                                        Programming --> ['programming']
+Y2DKNIJ:                                                  Computer software --> ['computer software']
+Y2DKNIJ:                                                Computers, Pipeline --> ['pipeline', 'computers']
+Y2DKNIJ:                                Jenkins (Software development tool) --> ['software development tool', 'jenkins']
+Y2DKNIJ:                                           Pipelining (Electronics) --> ['electronics', 'pipelining']
+Y2DKNIJ:                                                        Reliability --> ['reliability']
+Y2DKNIJ:                                                        Reusability --> ['reusability']
+2PREXN8:                                                  Computer graphics --> ['computer graphics']
+2PREXN8:                                                               HTML --> ['html']
+2PREXN8:                                          Three-dimensional imaging --> ['three-dimensional imaging']
+2PREXN8:                                                              WebGL --> ['webgl']
+NW3JCKD:                                               Internet programming --> ['internet programming']
+NW3JCKD:                                                         JavaScript --> ['javascript']
+NW3JCKD:                                                   Web applications --> ['web applications']
+RAM6DMV:                                                     Computer games --> ['computer games']
+RAM6DMV:                                                             Design --> ['design']
+RAM6DMV:                                                        Programming --> ['programming']
+6R7RVXS:                                                             Design --> ['design']
+6R7RVXS:                                            Handbooks, manuals, etc --> ['manuals', 'handbooks']
+6R7RVXS:                                                         JavaScript --> ['javascript']
+6R7RVXS:                                               Web site development --> ['web site development']
+6R7RVXS:                                                          Web sites --> ['web sites']
+L5G6PEH:                                 Python (Computer program language) --> ['python', 'computer program language']
+PFD37M8:                                                  Computer graphics --> ['computer graphics']
+PFD37M8:                                                  Computer programs --> ['computer programs']
+PFD37M8:                                           D3.js (Computer program) --> ['computer program', 'd3.js']
+PFD37M8:                                          Information visualization --> ['information visualization']
+PFD37M8:                                                         JavaScript --> ['javascript']
+ENL8VIT:                                                   Computer science --> ['computer science']
+ENL8VIT:                                                        Mathematics --> ['mathematics']
+ENL8VIT:                                                            Physics --> ['physics']
+YKC597T:                                                     Computer games --> ['computer games']
+YKC597T:                                                             Design --> ['design']
+YKC597T:                                                        Programming --> ['programming']
+84F3AHN:                                                      Least squares --> ['least squares']
+84F3AHN:                                                     Linear systems --> ['linear systems']
+84F3AHN:                                                           Matrices --> ['matrices']
+N26H2L6:                                                     Computer games --> ['computer games']
+N26H2L6:                                                             Design --> ['design']
+N26H2L6:                                              Psychological aspects --> ['psychological aspects']
+N26H2L6:                                                        Video games --> ['video games']
+4PDS8Y8:                                                           Big data --> ['big data']
+4PDS8Y8:                                                  Computer programs --> ['computer programs']
+4PDS8Y8:                                                        Data mining --> ['data mining']
+4PDS8Y8:           Spark (Electronic resource : Apache Software Foundation) --> ['apache software foundation', 'spark', 'electronic resource']
+57ZENCC:                                                  Computer graphics --> ['computer graphics']
+57ZENCC:                                                      Digital video --> ['digital video']
+57ZENCC:                                          Graphics processing units --> ['graphics processing units']
+57ZENCC:                                                        Programming --> ['programming']
+57ZENCC:                                          Real-time data processing --> ['real-time data processing']
+57ZENCC:                                      Rendering (Computer graphics) --> ['rendering', 'computer graphics']
+CF8845C:                                 Python (Computer program language) --> ['python', 'computer program language']
+2FGDCA6:                                                     Computer games --> ['computer games']
+2FGDCA6:                                                        Programming --> ['programming']
+BK5XLNC:                                     C# (Computer program language) --> ['computer program language', 'c#']
+BK5XLNC:                                                     Computer games --> ['computer games']
+BK5XLNC:                                                             Design --> ['design']
+BK5XLNC:                                                           Direct3D --> ['direct3d']
+BK5XLNC:                                                            DirectX --> ['directx']
+BK5XLNC:                                           Microsoft .NET Framework --> ['microsoft .net framework']
+BK5XLNC:                                                        Programming --> ['programming']
+BK5XLNC:                                  Three-dimensional display systems --> ['three-dimensional display systems']
+BK5XLNC:                              Visual programming (Computer science) --> ['computer science', 'visual programming']
+TF73S9G:                                                     Computer games --> ['computer games']
+TF73S9G:                                                             Design --> ['design']
+TF73S9G:                                                        Programming --> ['programming']
+TF73S9G:                                                 Project management --> ['project management']
+YXL63IS:                       Graphical user interfaces (Computer systems) --> ['computer systems', 'graphical user interfaces']
+TLT2G4J:                                                         Set theory --> ['set theory']
+DURAAIA:                                                     Computer games --> ['computer games']
+DURAAIA:                                                             Design --> ['design']
+DURAAIA:                                       Design Psychological aspects --> ['design psychological aspects']
+DURAAIA:                                              Psychological aspects --> ['psychological aspects']
+DURAAIA:                                                        Video games --> ['video games']
+WEL5CZD:                                                         Algorithms --> ['algorithms']
+WEL5CZD:                                                     Computer games --> ['computer games']
+WEL5CZD:                                                        Programming --> ['programming']
+4PFGRTI:                                   Java (Computer program language) --> ['java', 'computer program language']
+4PFGRTI:                                                       Web services --> ['web services']
+4PFGRTI:                                     XML (Document markup language) --> ['document markup language', 'xml']
+S5A3YH7:                                             Cascading style sheets --> ['cascading style sheets']
+S5A3YH7:                                                     Computer games --> ['computer games']
+S5A3YH7:                                                               HTML --> ['html']
+S5A3YH7:                                                         JavaScript --> ['javascript']
+S5A3YH7:                                                        Programming --> ['programming']
+S5A3YH7:                                                   Web applications --> ['web applications']
+PW7THDT:                                                   Fourier analysis --> ['fourier analysis']
+PW7THDT:                                             Wavelets (Mathematics) --> ['mathematics', 'wavelets']
+GSFUHK4:                                                Computer algorithms --> ['computer algorithms']
+GSFUHK4:                                             Distributed processing --> ['distributed processing']
+GSFUHK4:                                         Electronic data processing --> ['electronic data processing']
+Z6F4NUV:                                                 Message processing --> ['message processing']
+Z6F4NUV:                                                  Telecommunication --> ['telecommunication']
+UARW6CH:                                                 Computer animation --> ['computer animation']
+UARW6CH:                                                     Computer games --> ['computer games']
+UARW6CH:                                                             Design --> ['design']
+UARW6CH:                                              Real-time programming --> ['real-time programming']
+UARW6CH:                                              Video game characters --> ['video game characters']
+8QUSSP6:                                            Artificial intelligence --> ['artificial intelligence']
+8QUSSP6:                                                 Computer animation --> ['computer animation']
+8QUSSP6:                                                     Computer games --> ['computer games']
+8QUSSP6:                                                        Programming --> ['programming']
+EVPWBVK:                                               Approximation theory --> ['approximation theory']
+EVPWBVK:                                            Chebyshev approximation --> ['chebyshev approximation']
+EVPWBVK:                                                 Numerical analysis --> ['numerical analysis']
+3XWT8JN:                                                     Computer games --> ['computer games']
+3XWT8JN:                                                            DirectX --> ['directx']
+3XWT8JN:                                                        Programming --> ['programming']
+R4QJJMF:                                                  Computer graphics --> ['computer graphics']
+R4QJJMF:                                                      Digital video --> ['digital video']
+R4QJJMF:                                          Graphics processing units --> ['graphics processing units']
+R4QJJMF:                                                        Programming --> ['programming']
+R4QJJMF:                                          Real-time data processing --> ['real-time data processing']
+R4QJJMF:                                      Rendering (Computer graphics) --> ['rendering', 'computer graphics']
+QKMJVW4:                                      COMPUTERS / Computer Graphics --> ['computer graphics', 'computers']
+QKMJVW4:                                    COMPUTERS / Programming / Games --> ['programming', 'games', 'computers']
+QKMJVW4:                                                  Computer graphics --> ['computer graphics']
+QKMJVW4:                                                      Digital video --> ['digital video']
+QKMJVW4:                                          Graphics processing units --> ['graphics processing units']
+QKMJVW4:                                                        Programming --> ['programming']
+QKMJVW4:                                          Real-time data processing --> ['real-time data processing']
+QKMJVW4:                                      Rendering (Computer graphics) --> ['rendering', 'computer graphics']
+2UV4E7C:                                                     Computer games --> ['computer games']
+2UV4E7C:                                                        Programming --> ['programming']
+BBY3J9Z:                                                     Computer games --> ['computer games']
+BBY3J9Z:                                                             Design --> ['design']
+BBY3J9Z:                                         Human-computer interaction --> ['human-computer interaction']
+BBY3J9Z:                                                        Programming --> ['programming']
+MT3BH35:                                                     Computer games --> ['computer games']
+MT3BH35:                                                             Design --> ['design']
+MT3BH35:                                                        Programming --> ['programming']
+8UNSWWD:                                                   Computer systems --> ['computer systems']
+8UNSWWD:                                                          Computers --> ['computers']
+8UNSWWD:                                                  Telecommunication --> ['telecommunication']
+8UNSWWD:                                 User interfaces (Computer systems) --> ['user interfaces', 'computer systems']
+RTHS95G:                                                         Authorship --> ['authorship']
+RTHS95G:                                                     Computer games --> ['computer games']
+RTHS95G:                                                             Design --> ['design']
+RTHS95G:                                                            Fiction --> ['fiction']
+RTHS95G:                                                       Storytelling --> ['storytelling']
+RP7EC4C:                                            Design and construction --> ['design', 'construction']
+RP7EC4C:                                                        Game theory --> ['game theory']
+RP7EC4C:                                                              Games --> ['games']
+RP7EC4C:                                                              Rules --> ['rules']
+ML7DR2H:                                                             Design --> ['design']
+ML7DR2H:                                                              Games --> ['games']
+ML7DR2H:                                                        Video games --> ['video games']
+TKF8RNQ:                                                     Computer games --> ['computer games']
+TKF8RNQ:                                                  Computer graphics --> ['computer graphics']
+TKF8RNQ:                                                        Programming --> ['programming']
+TKF8RNQ:                                              Real-time programming --> ['real-time programming']
+TKF8RNQ:                                  Three-dimensional display systems --> ['three-dimensional display systems']
+FYKGHX7:                                               Computer programming --> ['computer programming']
+VXIU5RX:                                            Artificial intelligence --> ['artificial intelligence']
+VXIU5RX:                                                     Computer games --> ['computer games']
+VXIU5RX:                                                        Programming --> ['programming']
+JCG9G72:                                                     Computer games --> ['computer games']
+JCG9G72:                                                             Design --> ['design']
+JCG9G72:                                      Programming Computer programs --> ['programming computer programs']
+JCG9G72:                                              Software architecture --> ['software architecture']
+G2WQNXL:                                                     Computer games --> ['computer games']
+G2WQNXL:                                                  Computer graphics --> ['computer graphics']
+G2WQNXL:                                                        Mathematics --> ['mathematics']
+G2WQNXL:                                            Programming Mathematics --> ['programming mathematics']
+G2WQNXL:                                  Three-dimensional display systems --> ['three-dimensional display systems']
+I9G7NSS:                                                   LínguaPortuguesa --> ['línguaportuguesa']
+I9G7NSS:                                        Produção de Texto Literário --> ['produção de texto literário']
+I9G7NSS:                                        Redes Neuronais Artificiais --> ['redes neuronais artificiais']
+N7A872C:                                                           Boosting --> ['boosting']
+N7A872C:                                                 Projection pursuit --> ['projection pursuit']
+N7A872C:                                                      Random Forest --> ['random forest']
+N7A872C:                                             Support Vector Machine --> ['support vector machine']
+A45QXB9:                                                    Neural Networks --> ['neural networks']
+QIT3TZX:                                                      Lemmatization --> ['lemmatization']
+QIT3TZX:                                                           Stemming --> ['stemming']
+QIT3TZX:                                                     Ultra-Stemming --> ['ultra-stemming']
+QIT3TZX:                                           computation and language --> ['computation', 'language']
+448 items need new tags
+583 tags need to be removed
+
+PPDZ3HN adding ['eeg', 'cognitive state', 'video games']. SUCCESS.
+J3UTMZT adding ['machine learning']. SUCCESS.
+F5UGDT2 adding ['machine learning', 'neural computing', 'evolutionary computing']. SUCCESS.
+LXN4UPX adding ['machine learning']. SUCCESS.
+BQ2SEES adding ['hidden markov models', 'speech recognition', 'tutorial']. SUCCESS.
+6K6P73Z adding ['computation', 'language']. SUCCESS.
+YDMNYHT adding ['computation', 'language']. SUCCESS.
+USWG9QT adding ['machine learning', 'computation', 'language']. SUCCESS.
+FJK32IL adding ['pattern recognition', 'computer vision']. SUCCESS.
+NNQECNM adding ['pattern recognition', 'computer vision']. SUCCESS.
+VCH7AUZ adding ['pattern recognition', 'computer vision']. SUCCESS.
+JYDZYV2 adding ['pattern recognition', 'computer vision']. SUCCESS.
+A9YE6BH adding ['pattern recognition', 'computer vision']. SUCCESS.
+PNRTN3W adding ['pattern recognition', 'computer vision']. SUCCESS.
+J8EML8F adding ['pattern recognition', 'computer vision', 'neural computing', 'evolutionary computing', 'neurons', 'cognition']. SUCCESS.
+Z874IJD adding ['pattern recognition', 'computer vision']. SUCCESS.
+9US376I adding ['pattern recognition', 'computer vision']. SUCCESS.
+AC643MZ adding ['pattern recognition', 'computer vision', 'machine learning']. SUCCESS.
+5K29Z45 adding ['pattern recognition', 'computer vision']. SUCCESS.
+8TI35B8 adding ['pattern recognition', 'computer vision']. SUCCESS.
+3FSLDMU adding ['pattern recognition', 'computer vision', 'machine learning']. SUCCESS.
+ZLF2CQ3 adding ['pattern recognition', 'computer vision']. SUCCESS.
+IYNTC5M adding ['pattern recognition', 'computer vision']. SUCCESS.
+LKX3FPT adding ['pattern recognition', 'computer vision']. SUCCESS.
+CYGTJAU adding ['pattern recognition', 'computer vision', 'machine learning']. SUCCESS.
+7I7GKG4 adding ['machine learning', 'software engineering']. SUCCESS.
+U93XF79 adding ['pattern recognition', 'computer vision', 'machine learning', 'neurons', 'cognition']. SUCCESS.
+RHW3CH9 adding ['machine learning']. SUCCESS.
+UTEGQYH adding ['pattern recognition', 'computer vision', 'machine learning', 'neural computing', 'evolutionary computing']. SUCCESS.
+NSZMAPC adding ['society', 'computers']. SUCCESS.
+PI89QCZ adding ['machine learning', 'computation', 'language']. SUCCESS.
+L9ZTYHG adding ['computation', 'language']. SUCCESS.
+4V9FMUT adding ['machine learning', 'python', 'computer program language']. SUCCESS.
+DAGW85J adding ['discrete event simulation', 'english corpus', 'frequency estimation', 'german corpus', 'lagrangian functions', 'maximum likelihood estimation', 'natural languages', 'smoothing methods', 'stochastic processes', 'testing', 'training data', 'turing-good formula', 'vocabulary', 'generalisation', 'artificial intelligence']. SUCCESS.
+G4LBL2I adding ['programming', 'computers', 'algorithms']. SUCCESS.
+H6DTRC9 adding ['programming', 'computers', 'algorithms']. SUCCESS.
+LC3CDA2 adding ['psychological traits']. SUCCESS.
+GWFAI3L adding ['computation', 'language']. SUCCESS.
+L7XYL5X adding ['statistical language modeling']. SUCCESS.
+AQWAPEB adding ['computers', 'operating systems', 'computer file', 'unix']. SUCCESS.
+CYBXXTY adding ['computer algorithms', 'computer programming']. SUCCESS.
+3QEE9TE adding ['literary criticism']. SUCCESS.
+8A7RN4E adding ['information theory', 'statistical complexity']. SUCCESS.
+7RBR5GV adding ['missing']. SUCCESS.
+VP8GYES adding ['fuzzy logic', 'literary sentences']. SUCCESS.
+5YLXNEB adding ['language models', 'natural language generation']. SUCCESS.
+VNAQ5XG adding ['neural computers', 'neural networks', 'neurobiology']. SUCCESS.
+6Y8TDMP adding ['command languages', 'computer science', 'database management', 'electronic data processing', 'information science']. SUCCESS.
+FR5932L adding ['adaptive filters', 'neural networks']. SUCCESS.
+VZGTFRZ adding ['bioinformatics', 'computational intelligence', 'data mining', 'forecasting', 'inference', 'machine learning', 'methodology', 'statistics']. SUCCESS.
+DCAEALK adding ['business', 'economics', 'business', 'economics', 'mathematics', 'game theory', 'mathematics', 'game theory']. SUCCESS.
+YSYQJKY adding ['c', 'unix', 'computers', 'operating systems', 'unix', 'computers', 'operating systems']. SUCCESS.
+SRAEXFJ adding ['c', 'intermediate']. SUCCESS.
+RGIQCYP adding ['c', 'intermediate']. SUCCESS.
+4GBHBVY adding ['c', 'intermediate']. SUCCESS.
+AZBMHZT adding ['c', 'intermediate']. SUCCESS.
+VH7R5UH adding ['c', 'intermediate']. SUCCESS.
+Y7CTKFE adding ['linux', 'computers', 'operating systems', 'linux', 'computers', 'operating systems', 'unix', 'computers', 'operating systems', 'unix', 'computers', 'operating systems', 'pro gramming', 'computers', 'c', 'computers', 'programming languages', 'software development', 'computers', 'engineering']. SUCCESS.
+GNMY53D adding ['science', 'physics', 'science', 'physics', 'science', 'mathematical', 'physics', 'computational', 'science', 'mathematical', 'physics', 'computational']. SUCCESS.
+KTDYMFK adding ['continuum mechanics', 'finite element method', 'engineering', 'structural analysis']. SUCCESS.
+A88TSU5 adding ['continuum mechanics', 'finite element method', 'engineering', 'structural analysis']. SUCCESS.
+SHAPUEK adding ['continuum mechanics', 'finite element method', 'engineering', 'structural analysis']. SUCCESS.
+GKHFVDE adding ['c', 'intermediate']. SUCCESS.
+VP8Y66B adding ['computer science', 'query languages', 'document markup language', 'xml']. SUCCESS.
+JZC6SEJ adding ['cross-platform software development', 'computer systems', 'graphical user interfaces', 'open source software', 'python', 'computer program language', 'wxpython', 'wxwidgets' ]. SUCCESS.
+SHDTGWL adding ['computer graphics', 'information visualization']. SUCCESS.
+M5FMDPY adding ['group theory', 'gruppe', 'lehrmittel', 'math.']. SUCCESS.
+ZTNAFWQ adding ['computational complexity', 'computer programming', 'data processing', 'mathematics', 'computer program language', 'ruby']. SUCCESS.
+FNXNXD8 adding ['fuzzy systems', 'information theory', 'uncertainty']. SUCCESS.
+CKKCMM2 adding ['atomic theory', 'nuclear physics']. SUCCESS.
+QNI2TC9 adding ['frequency spectra', 'signal processing', 'time-series analysis']. SUCCESS.
+DV8EMKW adding ['application program interfaces', 'computer software', 'computer graphics', 'computer programming', 'opengl', 'specifications']. SUCCESS.
+ZGSTEA2 adding ['mathematical recreations']. SUCCESS.
+TRSHCDI adding ['plasma', 'ionized gases']. SUCCESS.
+ZTKU6PZ adding ['calculus', 'manuals', 'handbooks']. SUCCESS.
+AWVZLG6 adding ['computer organization', 'electronic computers', 'parallel processing', 'virtual computer systems', 'xen', 'electronic resource']. SUCCESS.
+DWHBWN9 adding ['computer science', 'mathematics']. SUCCESS.
+6KZMS7P adding ['compilers', 'computer programs']. SUCCESS.
+7EQVY5I adding ['c++', 'computer program language']. SUCCESS.
+NN35SVM adding ['calculus', 'history']. SUCCESS.
+83XQ7UX adding ['awk', 'computer program language']. SUCCESS.
+HXNI24R adding ['multiprocessors', 'electronic computers', 'multiprogramming']. SUCCESS.
+NV9MAV3 adding ['tcl', 'computer program language', 'tk toolkit']. SUCCESS.
+S6FUYA2 adding ['assistive computer technology', 'data processing', 'domestic relations', 'environmental psychology']. SUCCESS.
+FJRHCA5 adding ['computer networks', 'computer science', 'data encryption', 'security measures', 'unix shells']. SUCCESS.
+766RW6Q adding ['computer programs', 'browsers', 'cache memory', 'web servers']. SUCCESS.
+K3Y323W adding ['digital control systems', 'microcontrollers', 'motorola 68000 series microprocessors']. SUCCESS.
+TNSX26J adding ['drilling muds', 'shale shakers']. SUCCESS.
+9UN4XDP adding ['exercises', 'problems', 'signal theory', 'telecommunication']. SUCCESS.
+RJKBEF4 adding ['calculus', 'exercises', 'problems']. SUCCESS.
+7KKXGAP adding ['differential equations', 'outlines', 'syllabi', 'exercises', 'problems']. SUCCESS.
+H654CUP adding ['tcp/ip', 'computer network protocol']. SUCCESS.
+D87ZZZ6 adding ['internet programming', 'web site development']. SUCCESS.
+PDJ4TZM adding ['automatic machinery', 'design', 'construction']. SUCCESS.
+VAR7SIY adding ['geology', 'hydrocarbon reservoirs', 'petroleum']. SUCCESS.
+VKE3IDS adding ['computer systems', 'graphical user interfaces', 'python', 'computer program language', 'qt', 'electronic resource']. SUCCESS.
+X8BPDTM adding ['data mining', 'electronic computers', 'programming languages', 'python', 'computer program language']. SUCCESS.
+XWKSUD6 adding ['python', 'computer program language']. SUCCESS.
+ESCZSD7 adding ['python', 'computer program language', 'document markup language', 'xml']. SUCCESS.
+P9JRLP5 adding ['python', 'computer program language']. SUCCESS.
+A64WJSS adding ['c', 'microcontrollers', 'programmable controllers']. SUCCESS.
+TQ98JE7 adding ['logic design', 'logic programming']. SUCCESS.
+XNC2IRC adding ['computer programs', 'browsers', 'computer file', 'firefox']. SUCCESS.
+QQ83RTB adding ['programmable controllers']. SUCCESS.
+B54D2Q8 adding ['open source software', 'virtual computer systems']. SUCCESS.
+E8UZ2XW adding ['internet programming', 'web site development']. SUCCESS.
+YRQY4KW adding ['computer program language', 'javascript', 'web site development']. SUCCESS.
+B26QPBV adding ['cascading style sheets', 'design', 'web sites']. SUCCESS.
+CM2NYXV adding ['electronic computers', 'assembly languages']. SUCCESS.
+T8YQA37 adding ['computer programs', 'electronic mail systems', 'internet', 'computer file', 'postfix']. SUCCESS.
+ML2C78Q adding ['computer games', 'physics', 'programming']. SUCCESS.
+9FP3NL7 adding ['caspian sea region', 'geology', 'petroleum']. SUCCESS.
+RHBVGAM adding ['fluid dynamics', 'mathematical optimization', 'mathematics', 'numerical analysis']. SUCCESS.
+QUM4K45 adding ['parsing', 'parsing', 'computer grammar', 'syntaktische analyse']. SUCCESS.
+PHSZBZ6 adding ['linear algebra', 'numerical calculations', 'parallel algorithms', 'electronic computers', 'parallel processing']. SUCCESS.
+C4LFSH3 adding ['machine learning', 'mathematical models', 'mathematical optimization']. SUCCESS.
+5V5WEEM adding ['computer graphics', 'opengl']. SUCCESS.
+KPYRZXH adding ['opencl', 'computer program language']. SUCCESS.
+AKJ9LKQ adding ['operational amplifiers']. SUCCESS.
+LVIQV6C adding ['computer algorithms', 'data processing', 'mathematical optimization', 'numerical analysis']. SUCCESS.
+RCFZRC9 adding ['foamed materials', 'metals']. SUCCESS.
+JZ66G3X adding ['continuum mechanics', 'finite element method', 'materials', 'mathematical models', 'nonlinear mechanics']. SUCCESS.
+8I6LJRQ adding ['computer networks', 'monitoring computer programs', 'security measures computer programs']. SUCCESS.
+QJG9PZA adding ['computer input-output equipment', 'signal processing', 'transducers']. SUCCESS.
+DKSBJFW adding ['electric motors', 'alternating current', 'fuzzy systems', 'motion control devices', 'power transmission', 'computer hardware description language', 'vhdl']. SUCCESS.
+3YH3PNW adding ['corpora', 'linguistics', 'data processing', 'machine learning', 'computer science', 'natural language processing']. SUCCESS.
+B7XC8C3 adding ['ams-latex', 'computer programs', 'computerized typesetting', 'mathematics printing']. SUCCESS.
+CYNPWGY adding ['design', 'digital techniques', 'mixed signal circuits', 'signal processing']. SUCCESS.
+SVLJR88 adding ['popular works', 'problem solving', 'mathematics', 'word problems']. SUCCESS.
+UUINRAG adding ['ams-latex', 'computer programs', 'computerized typesetting', 'mathematics printing']. SUCCESS.
+LK9TPC3 adding ['humor', 'mathematics', 'popular works']. SUCCESS.
+GYXIB2J adding ['linux', 'computer science', 'raid']. SUCCESS.
+INALZH9 adding ['linux', 'computers', 'operating systems']. SUCCESS.
+P55N2YC adding ['embedded computer systems', 'linux', 'computers', 'operating systems', 'programming', 'real-time programming']. SUCCESS.
+693KDYA adding ['linear programming']. SUCCESS.
+SJT26J8 adding ['authoring programs', 'cascading style sheets', 'computer graphics', 'design', 'document markup language', 'html', 'manuals', 'handbooks', 'computer program language', 'javascript', 'web sites']. SUCCESS.
+2Y4ZVBL adding ['python', 'computer program language']. SUCCESS.
+966ECRQ adding ['tcp/ip', 'computer network protocol']. SUCCESS.
+E9RKF9R adding ['quantum computers']. SUCCESS.
+BZ5P2NI adding ['mathematical statistics', 'probabilities']. SUCCESS.
+7CZYQNT adding ['magnetic prospecting']. SUCCESS.
+MSCP8FN adding ['microcontrollers', 'microprocessors', 'programmable controllers']. SUCCESS.
+QWJJN3F adding ['microcontrollers', 'programmable controllers']. SUCCESS.
+SK6RLTX adding ['optical communications']. SUCCESS.
+GS5BLRJ adding ['computer games', 'design', 'programming', 'video games']. SUCCESS.
+XWWCLJW adding ['cascading style sheets', 'document markup language', 'html', 'document markup language', 'xhtml']. SUCCESS.
+82BP8EA adding ['audio amplifiers', 'power amplifiers']. SUCCESS.
+NZJKL8M adding ['engineering mathematics', 'exercises', 'problems']. SUCCESS.
+PYU8NDK adding ['design', 'document markup language', 'html', 'internet programming', 'web publishing', 'web site development', 'web sites', 'document markup language', 'xhtml']. SUCCESS.
+6BMRLDD adding ['computer software', 'development']. SUCCESS.
+L98CG3K adding ['design', 'internet programming', 'computer language', 'javascript', 'computer program language', 'javascript', 'web sites']. SUCCESS.
+H5UBBXG adding ['combinatorial analysis', 'computer science', 'manuals', 'handbooks', 'mathematics']. SUCCESS.
+RI98Z94 adding ['electronic computers', 'assembly languages', 'computer architecture', 'microprocessors', 'programming', 'reduced instruction set computers']. SUCCESS.
+B5S4CVI adding ['electronic computers', 'assembly languages', 'linux']. SUCCESS.
+XI4HUYH adding ['computer security', 'python', 'computer program language']. SUCCESS.
+R8T994Q adding ['fracture', 'hydrocarbon reservoirs', 'rocks', 'sedimentary rocks']. SUCCESS.
+SYY4KUA adding ['computer games', 'programming']. SUCCESS.
+J27DE9R adding ['automatic control', 'fuzzy systems']. SUCCESS.
+U9CPF2Q adding ['digital techniques data processing', 'matlab', 'signal processing', 'textbooks']. SUCCESS.
+DUY4BAE adding ['object-oriented programming languages']. SUCCESS.
+RVSJGDM adding ['c', 'gtk+']. SUCCESS.
+J7FAWLA adding ['fluidization']. SUCCESS.
+EK2K256 adding ['image processing', "traitement d'images"]. SUCCESS.
+3WPM6S3 adding ['algorithms', 'data processing', 'matrices']. SUCCESS.
+MKL9M7E adding ['seismic prospecting']. SUCCESS.
+E9C6BUA adding ['ethernet', 'local area network system']. SUCCESS.
+VHMIQ8G adding ['electronic computers', 'programming languages']. SUCCESS.
+2TUHM97 adding ['data processing', 'engineering mathematics', 'computer file', 'matlab']. SUCCESS.
+M2DUF8G adding ['authoring programs', 'web site development', 'web sites']. SUCCESS.
+R39UP2H adding ['embedded computer systems', 'freebsd', 'computers', 'operating systems']. SUCCESS.
+ISDIL8Q adding ['elasticity']. SUCCESS.
+GPFZJKA adding ['computer programming', 'python', 'computer program language']. SUCCESS.
+ZT2QWC8 adding ['design', 'computer systems', 'graphical user interfaces']. SUCCESS.
+MHPR2VW adding ['design', 'construction', 'embedded internet devices', 'internet', 'microcontrollers']. SUCCESS.
+4JEHYXN adding ['computer science', 'mathematics']. SUCCESS.
+KNNGSF7 adding ['computer systems', 'computers', 'telecommunication', 'user interfaces', 'computer systems']. SUCCESS.
+IJT5FX6 adding ['fluid dynamics mathematical models', 'oil well drilling', 'petroleum pipelines', 'wells']. SUCCESS.
+M8MUNL6 adding ['chemical engineering', 'chemical processes', 'differential equations', 'mathematical models', 'mathematics']. SUCCESS.
+KDQV3Y7 adding ['near-field communication', 'wireless communication systems']. SUCCESS.
+B792RKL adding ['computer algorithms']. SUCCESS.
+6URCK2N adding ['digital electronics', 'popular works']. SUCCESS.
+IP6CHTW adding ['engineering mathematics']. SUCCESS.
+2Z86632 adding ['computer file', 'unix', 'unix shells', 'user interfaces', 'computer systems']. SUCCESS.
+UN3FDAL adding ['audio amplifiers', 'design', 'construction', 'power amplifiers']. SUCCESS.
+2AEUHQI adding ['high-fidelity sound systems']. SUCCESS.
+MNF4KK7 adding ['computer interfaces', 'data processing', 'matlab', 'numerical analysis', 'parallel programming', 'computer science']. SUCCESS.
+AFG7CW4 adding ['functions of complex variables']. SUCCESS.
+DC5JQHB adding ['computer networks', 'telecommunication', 'traffic']. SUCCESS.
+7UYDV3N adding ['computer-aided design', 'integrated circuit layout', 'integrated circuits', 'complementary', 'metal oxide semiconductors']. SUCCESS.
+KYFD345 adding ['calculus', 'textbooks', 'transcendental functions']. SUCCESS.
+3IFXEKD adding ['bose-einstein condensation']. SUCCESS.
+UYPVWUF adding ['regular expressions', 'computer science', 'computer science', 'text processing']. SUCCESS.
+JHPGGLC adding ['python', 'computer program language']. SUCCESS.
+549MG2Y adding ['design', 'construction', 'embedded computer systems', 'microprocessors']. SUCCESS.
+H6JRZYZ adding ['mathematics']. SUCCESS.
+JRDD3FC adding ['computer algorithms']. SUCCESS.
+4YUAV2B adding ['computer algorithms', 'computer science', 'data structures']. SUCCESS.
+CJX39N2 adding ['artificial intelligence', 'computer games', 'programming']. SUCCESS.
+BR7I9XZ adding ['artificial intelligence', 'computer games', 'design', 'programming', 'video games']. SUCCESS.
+HCGX2CG adding ['fluid dynamics', 'gas engineering', 'mathematical models', 'oil reservoir engineering']. SUCCESS.
+APUCJED adding ['algebra', 'abstract']. SUCCESS.
+UALBWJ8 adding ['biography', 'history', 'w. harry', 'mayne', 'petroleum geologists', 'petty geophysical engineering company', 'seismic prospecting', 'united states']. SUCCESS.
+APPNQDJ adding ['seismic prospecting']. SUCCESS.
+NY4L26A adding ['c', 'computer science', 'functional programming']. SUCCESS.
+9LJZFVH adding ['c', 'intermediate']. SUCCESS.
+TYNX3K8 adding ['c', 'intermediate']. SUCCESS.
+EANLQEB adding ['c', 'intermediate']. SUCCESS.
+XNUCGUA adding ['c', 'computer algorithms', 'intermediate']. SUCCESS.
+VC8ZWR7 adding ['c', 'intermediate']. SUCCESS.
+8XA9HV7 adding ['beginner', 'c']. SUCCESS.
+K6CXW9K adding ['c', 'intermediate', 'parallel programming', 'computer science']. SUCCESS.
+HIEVXBN adding ['c', 'intermediate']. SUCCESS.
+P6KN9V5 adding ['c']. SUCCESS.
+ME7QVT8 adding ['c']. SUCCESS.
+JGQNDAQ adding ['c', 'intermediate']. SUCCESS.
+P59FT55 adding ['c', 'intermediate']. SUCCESS.
+9QYUJH4 adding ['c', 'intermediate']. SUCCESS.
+3KQ6XWE adding ['beginner', 'c']. SUCCESS.
+ZT5BG8H adding ['c', 'intermediate']. SUCCESS.
+ZHNGI24 adding ['beginner', 'c']. SUCCESS.
+QMAL2HB adding ['beginner', 'c']. SUCCESS.
+VD2I8P2 adding ['beginner', 'c']. SUCCESS.
+3R3Y7DH adding ['c', 'opencl', 'computer program language', 'parallel programming', 'computer science']. SUCCESS.
+93TLSYJ adding ['c', 'parallel programming', 'computer science']. SUCCESS.
+NVVMRGX adding ['c']. SUCCESS.
+XCQRQWE adding ['computer science', 'computers', 'computers', 'programming', 'computers', 'algorithms', 'mathematics', 'algebra', 'mathematics', 'discrete mathematics', 'mathematics', 'mathematics']. SUCCESS.
+VT2XMTM adding ['mathematics', 'algebra', 'linear', 'mathematics', 'algebra', 'linear']. SUCCESS.
+FTG44SA adding ['linear programming', 'planning', 'network analysis']. SUCCESS.
+Q7HMU3L adding ['computation', 'language']. SUCCESS.
+2FXGS57 adding ['computation', 'language']. SUCCESS.
+WQA3987 adding ['computer graphics']. SUCCESS.
+LWET7DS adding ['computers', 'management information systems', 'computers', 'mathematics', 'algebra']. SUCCESS.
+2B4YZ9T adding ['calculus of tensors', 'fluid dynamics', 'vector analysis']. SUCCESS.
+23SUZ6J adding ['numerical analysis']. SUCCESS.
+FTFL5DC adding ['computer simulation', 'data processing', 'physics', 'simulation methods']. SUCCESS.
+F6KBZJ4 adding ['artificial intelligence', 'research methodology']. SUCCESS.
+EV5ITU5 adding ['science', 'geophysics', 'science', 'geophysics', 'seismology', 'textbooks']. SUCCESS.
+B7XZHUH adding ['data processing', 'numerical analysis']. SUCCESS.
+PN6Z78G adding ['big data', 'democracy', 'mathematical models moral', 'ethical aspects', 'political aspects', 'social aspects', 'social conditions', 'social indicators', 'united states']. SUCCESS
+YENIVTR adding ['information technology', 'computers']. SUCCESS.
+GPC7DQ7 adding ['computer graphics', 'databases', 'dictionaries', 'digital computer simulation', 'digital techniques databases', 'human-computer interaction', 'image processing', 'radiosity', 'virtual reality']. SUCCESS.
+ITW2QCD adding ['programming', 'games', 'computers']. SUCCESS.
+X5THYXT adding ['computer graphics']. SUCCESS.
+SIY9A7E adding ['computer graphics', 'graphics processing units', 'mobile computing', 'pocket computers', 'programming', 'rendering', 'computer graphics']. SUCCESS.
+XKVTTLH adding ['programming', 'games', 'computers']. SUCCESS.
+JFKC3I9 adding ['web', 'computers']. SUCCESS.
+6QRGNMT adding ['computer games', 'computer graphics', 'programming']. SUCCESS.
+E2KZRV7 adding ['computer games', 'computer graphics', 'computer software', 'programming']. SUCCESS.
+MD3CA5D adding ['statistical methods', 'statistical physics', 'topic segmentation']. SUCCESS.
+VXNHDLS adding ['computers', 'data processing', 'computers', 'data processing', 'information technology', 'computers', 'mathematics applied', 'mathematics applied', 'mathematics', 'counting' , 'numeration', 'mathematics', 'counting', 'numeration', 'mathematics', 'discrete mathematics', 'mathematics', 'numerical analysis', 'mathematics', 'numerical analysis', 'engineering', 'technology', 'engineering', 'technology']. SUCCESS.
+VFXS5GQ adding ['science', 'geophysics', 'physics', 'science', 'geophysics', 'physics']. SUCCESS.
+DWS9SEA adding ['computer simulation', 'geology mathematical models', 'oil fields', 'petroleum']. SUCCESS.
+8MPQ6F9 adding ['congresses', 'data processing', 'engineering', 'high performance computing', 'science']. SUCCESS.
+MAQAFJ2 adding ['internet programming', 'object-oriented programming', 'computer science', 'simple object access protocol', 'computer network protocol', 'document markup language', 'xml']. SUCCESS
+54FRT3K adding ['mathematical optimization']. SUCCESS.
+S3YSLE3 adding ['computer science', 'mathematical models', 'mathematics']. SUCCESS.
+P8MKTIB adding ['computer algorithms', 'computer programming']. SUCCESS.
+N9CAJXT adding ['data processing', 'database design', 'database management', 'databases', 'graph theory']. SUCCESS.
+JT7IMJQ adding ['error-correcting codes', 'information theory']. SUCCESS.
+XAXYDAW adding ['combinatorial optimization', 'graph theory']. SUCCESS.
+8SIG3SP adding ['geology data processing', 'geophysical methods data processing', 'petroleum', 'prospecting', 'prospecting data processing']. SUCCESS.
+3MRU7CZ adding ['congresses', 'numerical analysis']. SUCCESS.
+I5WPALZ adding ['partial', 'differential equations', 'finite differences', 'numerical solutions']. SUCCESS.
+Q37PY8X adding ['computer graphics', 'interactive computer systems', 'opengl', 'webgl']. SUCCESS.
+EH734GF adding ['database systems', 'database technology']. SUCCESS.
+U2BQVQJ adding ['digital techniques', 'signal processing']. SUCCESS.
+M2WTYHW adding ['matrices']. SUCCESS.
+XYW8J8J adding ['artificial intelligence', 'computer games', 'design', 'human behavior', 'mathematics', 'programming']. SUCCESS.
+424T6NG adding ['elastic waves', 'wave-motion', 'theory of']. SUCCESS.
+GF9XQ6W adding ['geology methodology', 'methodology', 'petroleum', 'seismic reflection method', 'seismology']. SUCCESS.
+WL6HLUE adding ['vertical seismic profiling']. SUCCESS.
+CH9XSTY adding ['geophysical methods', 'prospecting', 'seismic wave propagation']. SUCCESS.
+SCYRHAS adding ['mathematics', 'digital filters', 'seismic reflection method', 'seismology', 'signal processing']. SUCCESS.
+XXISMBM adding ['boundary element methods', 'geophysics', 'mathematics']. SUCCESS.
+Y77M72S adding ['data processing', 'matrices']. SUCCESS.
+XFNZQWB adding ['mathematics', 'multimedia systems']. SUCCESS.
+IBVL7NC adding ['wave equation', 'wave-motion', 'theory of']. SUCCESS.
+TVYNM3Q adding ['partial', 'differential equations']. SUCCESS.
+TTS3XC4 adding ['agile software development', 'computer software', 'reliability']. SUCCESS.
+QJW5KMU adding ['computer programming']. SUCCESS.
+R8QALPZ adding ['numerical analysis']. SUCCESS.
+I6JPSVA adding ['mathematical statistics', 'probabilities', 'textbooks']. SUCCESS.
+V46HJLC adding ['computer programs', 'statistics', 'mathematics', 'probability', 'statistics', 'mathematics', 'probability', 'programmed instruction', 'programmed instructional materials', 'quantitative research', 'statistics', 'study', 'teaching']. SUCCESS.
+HI3HEW5 adding ['bayesian statistical decision theory', 'data processing', 'python', 'computer program language']. SUCCESS.
+N3NY4FP adding ['algorithms', 'game theory']. SUCCESS.
+CS36EYZ adding ['javascript']. SUCCESS.
+C9JVICD adding ['computer science', 'artificial intelligence', 'machine learning']. SUCCESS.
+8HULA8J adding ['popular physics', 'physics']. SUCCESS.
+V6BTGZW adding ['computer science', 'information networks', 'social', 'society', 'physics', 'statistics', 'applications']. SUCCESS.
+2E87ZAR adding ['computer science', 'game theory', 'machine learning']. SUCCESS.
+VEF77RF adding ['computer science', 'discrete mathematics', 'mathematics', 'combinatorics']. SUCCESS.
+YRMFIKN adding ['machine learning', 'neural computing', 'evolutionary computing']. SUCCESS.
+355LSNN adding ['mathematics', 'numerical analysis']. SUCCESS.
+FQSI7JZ adding ['11y16', 'computer science', 'data structures', 'algorithms', 'number theory']. SUCCESS.
+E6KWFPZ adding ['computer algorithms', 'textbooks']. SUCCESS.
+ESEZAMG adding ['stress', 'physiology', 'psychology', 'stress', 'stress management']. SUCCESS.
+ZUGH54E adding ['mathematical analysis', 'textbooks']. SUCCESS.
+HMI4CV5 adding ['electronic computers', 'parallel processing', 'computer science', 'vector processing']. SUCCESS.
+4YXTWEC adding ['logic', 'fallacies', 'reasoning']. SUCCESS.
+3VX7WYT adding ['linear algebra', 'textbooks']. SUCCESS.
+3UZN3C3 adding ['data processing', 'r', 'computer program language', 'time-series analysis']. SUCCESS.
+8NK4AAY adding ['fluid dynamics', 'mathematical models', 'oil reservoir engineering', 'porosity']. SUCCESS.
+8BIZ728 adding ['congresses', 'seismology', 'shear waves']. SUCCESS.
+T5IWE8P adding ['computer graphics', 'computers', 'digital media', 'animation', 'computers', 'video', 'programming', 'games', 'computers']. SUCCESS.
+LXVV3NY adding ['python', 'computers', 'programming languages', 'python', 'computers', 'programming languages']. SUCCESS.
+F3RMAKG adding ['html', 'computers', 'programming languages', 'javascript', 'computers', 'programming languages', 'web', 'browsers', 'computers', 'web', 'browsers', 'computers', 'web programming', 'web', 'computers']. SUCCESS.
+VRQLLS4 adding ['art', 'digital', 'art', 'digital', 'design', 'desktop applications', 'computers', 'graphics', 'design', 'desktop applications', 'computers', 'graphics']. SUCCESS.
+PYC8XMK adding ['history', 'computers', 'history', 'computers', 'activities', 'electronic', 'games', 'video', 'engineering', 'technology', 'history', 'engineering', 'technology', 'history']. SUCCESS
+ZYS3QZH adding ['engineering', 'electrical', 'technology', 'engineering', 'electrical', 'technology', 'electronics', 'digital', 'engineering', 'technology', 'electronics', 'digital', 'engineering', 'technology']. SUCCESS.
+7Y5WU3L adding ['cognitive psychology', 'psychology', 'cognition', 'cognitive psychology', 'psychology', 'cognition']. SUCCESS.
+W8GIAX5 adding ['mathematics', 'mathematics', 'mathematics', 'geometry', 'mathematics', 'geometry', 'mathematics', 'numerical analysis', 'mathematics', 'numerical analysis']. SUCCESS.
+TWRBC9P adding ['user interfaces', 'computers', 'user interfaces', 'computers']. SUCCESS.
+TUS264Q adding ['html', 'computers', 'programming languages']. SUCCESS.
+F8MSLV8 adding ['mathematics', 'calculus', 'mathematics', 'calculus', 'mathematics', 'mathematics', 'science', 'science']. SUCCESS.
+9QLH586 adding ['computers']. SUCCESS.
+Z94YLEW adding ['computer science', 'computers', 'programming', 'games', 'computers']. SUCCESS.
+VUFG9G8 adding ['microprocessors', 'computers', 'microprocessors', 'computers', 'computing', 'distributed systems', 'computers', 'systems architecture', 'computing', 'distributed systems', 'computers', 'systems architecture']. SUCCESS.
+RBVD93G adding ['microprocessors', 'computers', 'microprocessors', 'computers', 'computing', 'distributed systems', 'computers', 'systems architecture', 'computing', 'distributed systems', 'computers', 'systems architecture', 'computers', 'systems architecture', 'computers', 'systems architecture']. SUCCESS.
+K8XZAQ8 adding ['web', 'social media', 'computers', 'web', 'social media', 'computers']. SUCCESS.
+JF8KY5I adding ['mathematics', 'calculus', 'mathematics', 'calculus', 'mathematics', 'mathematics', 'mathematics', 'linear programming', 'nonlinear programming', 'mathematics', 'linear programming', 'nonlinear programming', 'mathematics', 'numerical analysis', 'mathematics', 'numerical analysis', 'mathematics', 'vector analysis', 'mathematics', 'vector analysis']. SUCCESS.
+YCGR8HZ adding ['computers', 'data processing', 'computers', 'data processing', 'data mining', 'computers', 'databases', 'data mining', 'computers', 'databases', 'python', 'computers', 'programming languages', 'python', 'computers', 'programming languages']. SUCCESS.
+Z9DJ967 adding ['mathematics', 'logic', 'mathematics', 'logic']. SUCCESS.
+XEKM6HZ adding ['computer science', 'computers', 'computers', 'data processing', 'computers', 'data processing', 'computers', 'mathematics applied', 'mathematics applied', 'mathematics', 'discrete mathematics', 'science', 'mathematical', 'physics', 'computational', 'science', 'mathematical', 'physics', 'computational']. SUCCESS.
+86FWETW adding ['mathematics', 'algebra', 'mathematics', 'algebra', 'linear', 'mathematics', 'algebra', 'linear']. SUCCESS.
+YTLRGHX adding ['cad-cam', 'computers', 'cad-cam', 'computers', 'mathematics applied', 'mathematics applied', 'mathematical analysis', 'mathematics', 'mathematical analysis', 'mathematics','mathematics', 'numerical analysis', 'mathematics', 'numerical analysis', 'medical', 'medical', 'science', 'fluids', 'mechanics', 'science', 'fluids', 'mechanics', 'engineering', 'technology', 'engineering', 'technology']. SUCCESS.
+3KEPQXH adding ['mathematical', 'computers', 'statistical software', 'mathematical', 'computers', 'statistical software', 'python', 'computers', 'programming languages', 'python', 'computers', 'programming languages']. SUCCESS.
+2HYEUBE adding ['information technology', 'computers', 'web programming', 'web', 'computers']. SUCCESS.
+NFBW5H7 adding ['computers', 'mathematics', 'discrete mathematics', 'engineering', 'technology', 'engineering', 'technology']. SUCCESS.
+ERDBHI4 adding ['computer graphics', 'computers', 'programming', 'games', 'computers']. SUCCESS.
+JUDKH36 adding ['computer graphics', 'computers', 'computer science', 'computers', 'digital media', 'animation', 'computers', 'video', 'programming', 'games', 'computers']. SUCCESS.
+HT79WXF adding ['programming', 'games', 'computers']. SUCCESS.
+FR2KBNZ adding ['computers', 'multimedia', 'interactive', 'computers', 'multimedia', 'interactive', 'programming', 'games', 'computers']. SUCCESS.
+PZKXV8J adding ['programming', 'games', 'computers']. SUCCESS.
+ZRUZD5E adding ['art', 'graphic arts', 'careers', 'business', 'economics', 'programming', 'games', 'computers']. SUCCESS.
+EJAMSCW adding ['programming', 'games', 'computers']. SUCCESS.
+8S3SU95 adding ['programming', 'games', 'computers']. SUCCESS.
+KWHZ4LD adding ['programming', 'games', 'computers']. SUCCESS.
+7M5NWF5 adding ['programming', 'games', 'computers', 'activities', 'electronic', 'games', 'video']. SUCCESS.
+N9KH9DS adding ['computer graphics', 'computers', 'digital media', 'animation', 'computers', 'video', 'programming', 'games', 'computers', 'science', 'physics', 'optics', 'light', 'photonics', 'engineering', 'lasers', 'technology']. SUCCESS.
+4JEPFCZ adding ['information technology', 'computers', 'web programming', 'web', 'computers']. SUCCESS.
+LW2AWDE adding ['programming', 'games', 'computers', 'html', 'computers', 'programming languages', 'javascript', 'computers', 'programming languages', 'web programming', 'web', 'computers']. SUCCESS
+9JDX95X adding ['activities', 'electronic', 'games', 'video', 'popular culture', 'social science', 'video', 'television', 'engineering', 'technology']. SUCCESS.
+4GKE5LZ adding ['computer graphics', 'computers', 'information technology', 'computers', 'web programming', 'web', 'computers']. SUCCESS.
+3KZH76X adding ['neural networks', 'computers', 'social science', 'research']. SUCCESS.
+XHVDSGW adding ['computer science', 'computers', 'semantics', 'intelligence', 'computers', 'ai']. SUCCESS.
+EQI9T4I adding ['art', 'popular culture', 'art', 'subjects', 'themes', 'activities', 'electronic', 'games', 'video']. SUCCESS.
+N9NVEMC adding ['computers', 'operating systems', 'programming', 'computers', 'algorithms', 'mathematics', 'combinatorics', 'mathematics', 'discrete mathematics']. SUCCESS.
+FNSH52P adding ['mathematics', 'general mathematics']. SUCCESS.
+VSBLDHG adding ['logic program', 'stable model', 'strong constraint', 'time slot', 'truth assignment']. SUCCESS.
+DUGAAYH adding ['astrophysics', 'high energy astrophysical phenomena', 'lattice', 'high energy physics', 'high energy physics', 'phenomenology', 'theory', 'high energy physics', 'quantum physics']. SUCCESS.
+NSZYLNS adding ['physics', 'chemical physics', 'computational physics', 'physics']. SUCCESS.
+JHYB4AG adding ['statistics', 'methodology']. SUCCESS.
+4I2NXNM adding ['computational physics', 'physics', 'physics', 'fluid dynamics']. SUCCESS.
+TGRULXR adding ['mathematical physics', 'spectral theory', 'mathematics']. SUCCESS.
+4FKXCRN adding ['82c22', '60k35', '82c21', 'dynamical systems', 'mathematical physics']. SUCCESS.
+5M7AML7 adding ['dynamical systems', 'number theory']. SUCCESS.
+T6RJR4X adding ['computational physics', 'physics', 'statistics', 'physics', 'probability', 'data analysis']. SUCCESS.
+KRWARBY adding ['computer science', 'computational complexity', 'computer science', 'game theory']. SUCCESS.
+JVGTKCY adding ['physics', 'physics education']. SUCCESS.
+3IT4PUH adding ['computer science', 'logic in computer science']. SUCCESS.
+Y4LQWI9 adding ['17d99', '57m27', 'geometric topology', 'mathematics', 'quantum algebra', 'mathematics']. SUCCESS.
+KR8YICA adding ['theory', 'high energy physics', 'mathematics', 'differential geometry', 'quantum algebra', 'mathematics']. SUCCESS.
+AGZA6G5 adding ['data processing', 'engineering mathematics', 'numerical analysis', 'python', 'computer program language']. SUCCESS.
+UBUJPJN adding ['mathematics', 'numerical analysis']. SUCCESS.
+X6A75H5 adding ['machine learning']. SUCCESS.
+ZSFDGK8 adding ['machine learning']. SUCCESS.
+VBT9M7R adding ['cognition', 'human information processing']. SUCCESS.
+MN25WEH adding ['mathematics', 'computational theory', 'differential evolution', 'fuzzy logic system', 'information systems', 'player model', 'software', 'theoretical computer science', 'video game']. SUCCESS.
+XQ2VXQS adding ['character recognition', 'feature extraction', 'gtn', 'hidden markov models', 'machine learning', 'multi-layer neural network', 'neural networks', 'optical character recognition software', 'optical computing', 'pattern recognition', 'principal component analysis']. SUCCESS.
+UQCJRNX adding ['pattern recognition', 'computer vision', 'machine learning', 'neural computing', 'evolutionary computing']. SUCCESS.
+S4QRHVP adding ['machine learning']. SUCCESS.
+NBXNJYC adding ['authorship', 'computer games', 'design', 'game theory', 'games', 'psychological aspects', 'situation', 'philosophy', 'video games']. SUCCESS.
+28YUMIE adding ['compter games', 'design', 'computer science', 'level design']. SUCCESS.
+H6MP4IU adding ['linear algebra', 'textbooks']. SUCCESS.
+EAIT65V adding ['computer games', 'design']. SUCCESS.
+Z3K7BYT adding ['computer graphics', 'computers', 'programming', 'games', 'computers', 'computer graphics', 'digital video', 'graphics processing units', 'programming', 'real-time data processing', 'rendering', 'computer graphics']. SUCCESS.
+J9NZYQ3 adding ['computer games', 'data processing', 'physics', 'programming']. SUCCESS.
+ZUCIPGE adding ['computer graphics', 'digitalization', 'display algorithms', 'graphics utilities', 'picture generation', 'image generation', 'sampling']. SUCCESS.
+7W7NXCT adding ['child', 'child development', 'preschool', 'child', 'cognition', 'concept formation', 'female', 'humans', 'male', 'memory', 'child', 'psychology', 'truth disclosure']. SUCCESS.
+5N8WHYX adding ['guidebooks', 'opengl', 'vulkan']. SUCCESS.
+KF7YZD3 adding ['artificial intelligence']. SUCCESS.
+VATN6CU adding ['computer architecture', 'cuda', 'computer graphics', 'graphics processing units', 'parallel programming', 'computer science', 'programming']. SUCCESS.
+XE738J9 adding ['computer games', 'html', 'programming']. SUCCESS.
+8ACPCIN adding ['apache hadoop', 'computer science', 'file organization']. SUCCESS.
+VEBNYG7 adding ['computer programming', 'open source', 'open source software', 'python', 'python', 'computer program language', 'human computer interaction', 'user interfaces', 'user interfaces', 'computer systems']. SUCCESS.
+A886X9H adding ['data transmission systems']. SUCCESS.
+G8SS8YT adding ['computer games', 'design', 'game theory', 'games', 'uncertainty', 'video games']. SUCCESS.
+7392ZJN adding ['linear algebra', 'numerical calculations']. SUCCESS.
+TJXQQHL adding ['history', 'video games']. SUCCESS.
+K6J6U9G adding ['computer game music', 'computer sound processing', 'reproducing digital techniques', 'recording', 'sound', 'sound effects', 'video games']. SUCCESS.
+UK3GW5M adding ['social aspects', 'video games']. SUCCESS.
+9JU2WKR adding ['data processing', 'numerical analysis']. SUCCESS.
+YUVLJCC adding ['mathematical analysis']. SUCCESS.
+KBYZ9VW adding ['computer graphics', 'real-time data processing', 'rendering', 'computer graphics']. SUCCESS.
+NMHL8SJ adding ['computer games', 'design', 'computer science', 'level design']. SUCCESS.
+CUDRV62 adding ['machine learning', 'mathematical statistics', 'probabilities', 'stochastic processes']. SUCCESS.
+PG2YXBU adding ['mathematical statistics', 'probabilities', 'textbooks']. SUCCESS.
+XHBGQ6M adding ['css', 'design', 'html', 'web site development', 'web sites']. SUCCESS.
+4FZ5DAG adding ['computer games', 'programming']. SUCCESS.
+Y2DKNIJ adding ['computer software', 'pipeline', 'computers', 'software development tool', 'jenkins', 'electronics', 'pipelining', 'reliability', 'reusability']. SUCCESS.
+2PREXN8 adding ['computer graphics', 'html', 'three-dimensional imaging', 'webgl']. SUCCESS.
+NW3JCKD adding ['internet programming', 'javascript', 'web applications']. SUCCESS.
+RAM6DMV adding ['computer games', 'design', 'programming']. SUCCESS.
+6R7RVXS adding ['design', 'manuals', 'handbooks', 'javascript', 'web site development', 'web sites']. SUCCESS.
+L5G6PEH adding ['python', 'computer program language']. SUCCESS.
+PFD37M8 adding ['computer graphics', 'computer programs', 'computer program', 'd3.js', 'information visualization', 'javascript']. SUCCESS.
+ENL8VIT adding ['computer science', 'mathematics', 'physics']. SUCCESS.
+YKC597T adding ['computer games', 'design', 'programming']. SUCCESS.
+84F3AHN adding ['least squares', 'linear systems', 'matrices']. SUCCESS.
+N26H2L6 adding ['computer games', 'design', 'psychological aspects', 'video games']. SUCCESS.
+4PDS8Y8 adding ['big data', 'computer programs', 'data mining', 'apache software foundation', 'spark', 'electronic resource']. SUCCESS.
+57ZENCC adding ['computer graphics', 'digital video', 'graphics processing units', 'programming', 'real-time data processing', 'rendering', 'computer graphics']. SUCCESS.
+CF8845C adding ['python', 'computer program language']. SUCCESS.
+2FGDCA6 adding ['computer games', 'programming']. SUCCESS.
+BK5XLNC adding ['computer program language', 'c#', 'computer games', 'design', 'direct3d', 'directx', 'microsoft .net framework', 'programming', 'three-dimensional display systems', 'computer science', 'visual programming']. SUCCESS.
+TF73S9G adding ['computer games', 'design', 'programming', 'project management']. SUCCESS.
+YXL63IS adding ['computer systems', 'graphical user interfaces']. SUCCESS.
+TLT2G4J adding ['set theory']. SUCCESS.
+DURAAIA adding ['computer games', 'design', 'design psychological aspects', 'psychological aspects', 'video games']. SUCCESS.
+WEL5CZD adding ['algorithms', 'computer games', 'programming']. SUCCESS.
+4PFGRTI adding ['java', 'computer program language', 'web services', 'document markup language', 'xml']. SUCCESS.
+S5A3YH7 adding ['cascading style sheets', 'computer games', 'html', 'javascript', 'programming', 'web applications']. SUCCESS.
+PW7THDT adding ['fourier analysis', 'mathematics', 'wavelets']. SUCCESS.
+GSFUHK4 adding ['computer algorithms', 'distributed processing', 'electronic data processing']. SUCCESS.
+Z6F4NUV adding ['message processing', 'telecommunication']. SUCCESS.
+UARW6CH adding ['computer animation', 'computer games', 'design', 'real-time programming', 'video game characters']. SUCCESS.
+8QUSSP6 adding ['artificial intelligence', 'computer animation', 'computer games', 'programming']. SUCCESS.
+EVPWBVK adding ['approximation theory', 'chebyshev approximation', 'numerical analysis']. SUCCESS.
+3XWT8JN adding ['computer games', 'directx', 'programming']. SUCCESS.
+R4QJJMF adding ['computer graphics', 'digital video', 'graphics processing units', 'programming', 'real-time data processing', 'rendering', 'computer graphics']. SUCCESS.
+QKMJVW4 adding ['computer graphics', 'computers', 'programming', 'games', 'computers', 'computer graphics', 'digital video', 'graphics processing units', 'programming', 'real-time data processing', 'rendering', 'computer graphics']. SUCCESS.
+2UV4E7C adding ['computer games', 'programming']. SUCCESS.
+BBY3J9Z adding ['computer games', 'design', 'human-computer interaction', 'programming']. SUCCESS.
+MT3BH35 adding ['computer games', 'design', 'programming']. SUCCESS.
+8UNSWWD adding ['computer systems', 'computers', 'telecommunication', 'user interfaces', 'computer systems']. SUCCESS.
+RTHS95G adding ['authorship', 'computer games', 'design', 'fiction', 'storytelling']. SUCCESS.
+RP7EC4C adding ['design', 'construction', 'game theory', 'games', 'rules']. SUCCESS.
+ML7DR2H adding ['design', 'games', 'video games']. SUCCESS.
+TKF8RNQ adding ['computer games', 'computer graphics', 'programming', 'real-time programming', 'three-dimensional display systems']. SUCCESS.
+FYKGHX7 adding ['computer programming']. SUCCESS.
+VXIU5RX adding ['artificial intelligence', 'computer games', 'programming']. SUCCESS.
+JCG9G72 adding ['computer games', 'design', 'programming computer programs', 'software architecture']. SUCCESS.
+G2WQNXL adding ['computer games', 'computer graphics', 'mathematics', 'programming mathematics', 'three-dimensional display systems']. SUCCESS.
+I9G7NSS adding ['línguaportuguesa', 'produção de texto literário', 'redes neuronais artificiais']. SUCCESS.
+N7A872C adding ['boosting', 'projection pursuit', 'random forest', 'support vector machine']. SUCCESS.
+A45QXB9 adding ['neural networks']. SUCCESS.
+QIT3TZX adding ['lemmatization', 'stemming', 'ultra-stemming', 'computation', 'language']. SUCCESS.
+
+Delete batch   1/12: Quantum computers
+Delete batch   2/12: Technology & Engineering / Electrical
+Delete batch   3/12: OpenCL (Computer program language)
+Delete batch   4/12: Seismic prospecting
+Delete batch   5/12: Digital filters (Mathematics)
+Delete batch   6/12: SCIENCE / Geophysics
+Delete batch   7/12: Stemming
+Delete batch   8/12: Monitoring Computer programs
+Delete batch   9/12: Problems, exercises, etc
+Delete batch  10/12: Astrophysics - High Energy Astrophysical Phenomena
+Delete batch  11/12: Authorship
+Delete batch  12/12: Picture and Image Generations
+
