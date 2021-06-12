@@ -60,6 +60,11 @@ Example:
 user@localhost$ ./zottag.py 123456 23wfds2435fwdf4252fs user
 ```
 
+HOW TO CUSTOMIZE
+================
+
+To customize the filters edit the source code and take a look at function `tag_rename()`.
+
 More info in how to create Zotero keys:
 
 [https://www.zotero.org/settings/keys](https://www.zotero.org/settings/keys)
