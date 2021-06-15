@@ -52,13 +52,19 @@ HOW TO USE
 
 2. `chmod 755 zottag.py`
 
-3. `./zottag.py ZOTEROID  APIKEY <user|group>`
+3. Make sure your zotero is in sync with the server. Also shutdown ZOTERO if you
+   set automatic sync, since it will fails if the server data changes during 
+   code execution
+
+4. `./zottag.py ZOTEROID  APIKEY <user|group>`
 
 Example:
 
 ```
 user@localhost$ ./zottag.py 123456 23wfds2435fwdf4252fs user
 ```
+
+5. Start zotero and be happy with your new tags renamed
 
 HOW TO CUSTOMIZE
 ================

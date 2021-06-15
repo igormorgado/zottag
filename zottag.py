@@ -4,6 +4,12 @@
 #   Customize rename filters
 #   Add terminal colors for eye candy
 #   Add counter/maximum to "adding"
+#   Add a parameter to set just update after a given date, maybe saving a timestamp somewhere in
+#   user dir.
+#   In command args assumes USER by default, if missing.
+#   Coalesce plurals into singulars
+#   Find similar names and merge them???? Complicated..
+#   Findout why tee do not work correctly, maybe need flush?
 
 from pyzotero import zotero
 import re
@@ -62,9 +68,12 @@ def tag_rename(tag):
             'Algebras, Linear':                                 ['linear algebra'],
             'Mathematics / Linear & Nonlinear Programming':     ['mathematics', 'linear programming', 'nonlinear programming'],
             'Mathematics / Applied':                            ['mathematics applied']
+            'math':                                             ['mathematics']
+            'math.':                                            ['mathematics']
+            'Math.':                                            ['mathematics']
             }
 
-    removals = [ 'general', 'etc', 'technique', 'general mathematics' ]
+    removals = [ 'general', 'etc', 'technique', 'general mathematics', 'math', 'math.' ]
 
 
     # If there is a full match in replacements, replace and exit
@@ -116,7 +125,7 @@ def process_tags(items, tags, verbose=True):
     tags_to_add = {}
     longest = len(max(alltags, key=len))
 
-    for item in witems:
+    for item in items:
         info = item['data']
         key = info['key']
         tags_to_add[key] = []
@@ -173,7 +182,6 @@ def split_list(l, size=50):
 
 #%%
 def delete_tags(zotero_connector, tags, verbose=True):
-        delete_tags(tags)
         # Defined on server size, maximum number of tags to
         # delete each time may change in future
         size = 50
@@ -185,12 +193,12 @@ def delete_tags(zotero_connector, tags, verbose=True):
 #%% Main
 if __name__ == '__main__':
     if len(sys.argv) != 4:
-        print(f"Usage: {argv[0]} ZOTEROID APIKEY <user|group> ")
-        return
+        print(f"Usage: {sys.argv[0]} ZOTEROID APIKEY <user|group> ")
+        sys.exit()
     else:
-        zoteroid = argv[1]
-        zoterotp = argv[2]
-        zoterokey = argv[3]
+        zoteroid = sys.argv[1]
+        zoterokey = sys.argv[2]
+        zoterotp = sys.argv[3]
 
     #%% access your library
     zot = zotero.Zotero(zoteroid, zoterotp, zoterokey, preserve_json_order=True)
@@ -218,6 +226,6 @@ if __name__ == '__main__':
         delete_tags(zot, tags_to_del, verbose=True)
     else:
         print(f"We had a issue adding the tags to:\n\n{failed_to_add}\n\nPlease check.")
-        return
+        sys.exit()
 
     print("Everything went amazing! You can sync your Zotero for hapiness")
