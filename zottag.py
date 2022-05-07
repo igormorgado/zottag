@@ -67,10 +67,10 @@ def tag_rename(tag):
             'Picture and Image Generations':                    ['picture generation', 'image generation'],
             'Algebras, Linear':                                 ['linear algebra'],
             'Mathematics / Linear & Nonlinear Programming':     ['mathematics', 'linear programming', 'nonlinear programming'],
-            'Mathematics / Applied':                            ['mathematics applied']
-            'math':                                             ['mathematics']
-            'math.':                                            ['mathematics']
-            'Math.':                                            ['mathematics']
+            'Mathematics / Applied':                            ['mathematics applied'],
+            'math':                                             ['mathematics'],
+            'math.':                                            ['mathematics'],
+            'Math.':                                            ['mathematics'],
             }
 
     removals = [ 'general', 'etc', 'technique', 'general mathematics', 'math', 'math.' ]
